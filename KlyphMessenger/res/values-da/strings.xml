@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	
+	<!-- Notifications -->
+	<string name="new_messages">%1$d new messages</string>
+	<string name="new_message_from"><b>%1$s</b> : %2$s</string>
+	
+	<!-- Chat -->
+    <string name="online">Online</string>
+    <string name="offline">Offline</string>
+    
+    <!-- Conversation -->
+    <string name="send_message">Send a message</string>
+    <string name="my_last_message">Me : %1$s</string>
+	<string name="friend_last_message">%1$s : %2$s</string>
+    
+    <!-- Menu -->
+    <string name="menu_new_conversation">New conversation</string>
+    <string name="menu_logout">Log af</string>
+    <string name="menu_preferences">Indstillinger</string>
+    <string name="menu_feedback">Feedback</string>
+    <string name="menu_faq">FAQ</string>
+    <string name="menu_buy_pro">No more ads !</string>
+    
+    <!-- General -->
+    <string name="defaultString">Standard</string>
+    <string name="search">Søg</string>
+    <string name="close">Luk</string>
+    <string name="open">Åben</string>
+    <string name="refresh">Opdater</string>
+    <string name="copy_text">Kopier tekst</string>
+    <string name="download_image">Download billede</string>
+    <string name="view_profile">Vis profil</string>
+    <string name="more">Mere</string>
+    <string name="reply">Svar</string>
+    <string name="hide">Skjul</string>
+    <string name="none">Ingen</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="error">Error</string>
+    
+    <!-- Preferences -->
+    <string name="preferences">Indstillinger</string>
+    <string name="preferences_ui_title">Bruger interface</string>
+    <string name="preference_theme_title">Tema</string>
+    <string name="preferences_themes_dialog_title">Vælg et tema</string>
+    <string name="preference_about_title">Omkring</string>
+    <string name="preference_credits_title">Credits</string>
+    <string name="preference_credits_apis_title">API\'s</string>
+    <string name="preference_credits_icons_title">Ikoner</string>
+    <string name="preference_credits_tools_title">Værktøjer</string>
+    <string name="preference_changelog_title">Ændrings log</string>
+    <string name="preference_app_language_title">Program sprog</string>
+    <string name="preferences_app_language_dialog_title">Skift program sprog</string>
+    <string name="preference_fb_language_title">Facebook sprog</string>
+    <string name="preferences_fb_language_dialog_title">Skift facebook sprog til</string>
+    <string name="preference_buy_pro_version_title">Køb Pro versionen</string>
+	<string name="credentials_translators">Oversættere</string>
+	
+	<!-- Buttons -->
+    <string name="request_error_retry">Forsøg igen</string>
+
+    <!-- Request errors -->
+    <string name="request_error">Der er opstået en fejl</string>
+    <string name="request_connexion_error">Forbindelses fejl\nTjek din internet forbindelse</string>
+    
+    <!-- Activity title -->
+    <string name="credentials_activity_title">Credits</string>
+    
+    <!-- Time values -->
+    <string name="seconds_ago">%s sekunder siden</string>
+    <string name="one_minute_ago">Et minut siden</string>
+    <string name="minutes_ago">%d minutter siden</string>
+    <string name="one_hour_ago">en time siden</string>
+    <string name="hours_ago">%d timer siden</string>
+    <string name="one_day_ago">En dag siden</string>
+    <string name="days_ago">%d dage siden</string>
+    <string name="one_month_ago">En måned siden</string>
+    <string name="months_ago">%d måneder siden</string>
+    <string name="years_ago">%d år siden</string>
+    
+    <!-- Thread -->
+    <string name="thread_one_user">%1$s</string>
+    <string name="thread_two_users">%1$s og %2$s</string>
+    <string name="thread_many_users">%1$s, %2$s og %3$d andre</string>
+
+    <!-- Credentials -->
+    <string name="credentials_apis">APIs</string>
+    <string name="credentials_icons">Ikoner</string>
+    <string name="credentials_translators">Oversættere</string>
+    
+    <!-- Empty lists -->
+    <string name="empty_list_no_friend">Ingen venner</string>
+    <string name="empty_list_no_message">Ingen beskeder</string>
+
+
+    <!-- About -->
+    <string name="about_version">Version %1$s</string>
+    <string name="about_activity_title">Omkring</string>
+    <string name="about_copyright">Copyright © 2013 Abewy</string>
+    <string name="about_all_rights_reserved">All rights reserved</string>
+
+    <!-- Feedback -->
+    <string name="feedback_send_mail">Send en mail</string>
+    <string name="feedback_support_mail_address">support.klyph@abewy.com</string>
+    <string name="feedback_found_a_bug">Et foreslag?\nHar du fundet en fejl?\nGiv os besked!</string>
+    <string name="feedback_send_suggest">Send et foreslag</string>
+    <string name="feedback_send_bug">Indmeld en fejl</string>
+    <string name="feedback_g_plus_community">G+ community</string>
+    <string name="restart">Genstart</string>
+    <string name="option_need_restart">En genstart er krævet for at slå denne valgmulighed til </string>
+    <string name="soon">Snart...</string>
+
+    <!-- Change log -->
+    <string name="title_changelog">Ændrings log</string>
+    <string name="changelog_close">Luk</string>
+    <string name="changelog_activity_title">Ændrings log</string>
+    
+     <!-- Preferences -->
+    <string name="preferences">Indstillinger</string>
+    <string name="preference_theme_title">Tema</string>
+    <string name="preferences_themes_dialog_title">Vælg et tema</string>
+    <string name="preference_about_title">Omkring</string>
+    <string name="preference_credits_title">Credits</string>
+    <string name="preference_credits_apis_title">API\'s</string>
+    <string name="preference_credits_icons_title">Ikoner</string>
+    <string name="preference_credits_tools_title">Værktøjer</string>
+    <string name="preference_changelog_title">Ændrings log</string>
+    <string name="preference_notifications_title">Notifikationer</string>
+    <string name="preference_notification_title">Notifikation</string>
+    <string name="preference_notification_summary">Slå notifikationer til</string>
+    <string name="preference_app_language_title">Program sprog</string>
+    <string name="preferences_app_language_dialog_title">Skift program sprog</string>
+    <string name="preference_fb_language_title">Facebook sprog</string>
+    <string name="preferences_fb_language_dialog_title">Skift facebook sprog til</string>
+    <string name="preference_performances_title">Ydelse</string>
+    <string name="preference_performances_rounded_profile_picture_summary">Slå effekten fra for at forbedre ydelsen</string>
+    <string name="preference_performances_rounded_profile_picture_title">Brug runde profil billeder</string>
+    <string name="preference_notification_vibrate_title">Vibering</string>
+    <string name="preference_notification_ringtone_title">Ringetone</string>
+    <string name="preference_notifications_ringtone">Ringetone</string>
+    <string name="preference_notifications_song">Sang</string>
+    <string name="preference_notification_ringtone_chooser">Vælg en ringetone</string>
+    <string name="preference_buy_pro_version_title">Køb Pro versionen</string>
+    
+    <!-- InApp Billing -->
+    <string name="thank_you">Thank you !</string>
+    <string name="thank_you_purchase">Thank you for upgrading to the ad free version !</string>
+	
+</resources>

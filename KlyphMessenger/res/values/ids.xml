@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <item name="menu_logout" type="id"/>
+    <item name="menu_settings" type="id"/>
+    <item name="menu_feedback" type="id"/>
+    <item name="menu_refresh" type="id"/>
+    <item name="menu_add" type="id"/>
+    <item name="menu_copy_text" type="id"/>
+    <item name="menu_faq" type="id"/>
+    <item name="menu_buy_pro" type="id"/>
+    
+    <item name="view_holder" type="id"/>
+    <item name="view_data" type="id"/>
+
+</resources>

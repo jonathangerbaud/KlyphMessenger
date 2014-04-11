@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	
+	<!-- Notifications -->
+	<string name="new_messages">%1$d nieuwe berichten</string>
+	<string name="new_message_from"><b>%1$s</b> : %2$s</string>
+	
+	<!-- Chat -->
+    <string name="online">Online</string>
+    <string name="offline">Offline</string>
+    
+    <!-- Conversation -->
+    <string name="send_message">Zend een bericht</string>
+    <string name="my_last_message">Ik : %1$s</string>
+	<string name="friend_last_message">%1$s : %2$s</string>
+    
+    <!-- Menu -->
+    <string name="menu_new_conversation">Nieuw gesprek</string>
+    <string name="menu_logout">Uitloggen</string>
+    <string name="menu_preferences">Voorkeuren</string>
+    <string name="menu_feedback">Voorstel/Bug</string>
+    <string name="menu_faq">FAQ (Veelgestelde Vragen)</string>
+    <string name="menu_buy_pro">No more ads !</string>
+    
+    <!-- General -->
+    <string name="defaultString">Standaard</string>
+    <string name="search">Zoeken</string>
+    <string name="close">Sluiten</string>
+    <string name="open">Openen</string>
+    <string name="refresh">Verversen</string>
+    <string name="copy_text">Kopieer tekst</string>
+    <string name="download_image">Download afbeelding</string>
+    <string name="view_profile">Bekijk profiel</string>
+    <string name="more">Meer</string>
+    <string name="reply">Beantwoorden</string>
+    <string name="hide">Verbergen</string>
+    <string name="none">Geen</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Annuleren</string>
+    <string name="error">Foutmelding</string>
+    
+    <!-- Preferences -->
+    <string name="preferences">Voorkeuren</string>
+    <string name="preferences_ui_title">Gebruikers interface</string>
+    <string name="preference_theme_title">Thema</string>
+    <string name="preferences_themes_dialog_title">Kies een thema</string>
+    <string name="preference_about_title">Over</string>
+    <string name="preference_credits_title">Met dank aan</string>
+    <string name="preference_credits_apis_title">APIs</string>
+    <string name="preference_credits_icons_title">Iconen</string>
+    <string name="preference_credits_tools_title">Hulpmiddelen</string>
+    <string name="preference_changelog_title">Wijzig logboek</string>
+    <string name="preference_app_language_title">Applicatietaal</string>
+    <string name="preferences_app_language_dialog_title">Verander applicatietaal naar</string>
+    <string name="preference_fb_language_title">Facebooktaal</string>
+    <string name="preferences_fb_language_dialog_title">Verander facebooktaal naar</string>
+    <string name="preference_buy_pro_version_title">Koop de pro-versie</string>
+	<string name="credentials_translators">Vertalers</string>
+	
+	<!-- Buttons -->
+    <string name="request_error_retry">Probeer nogmaals</string>
+
+    <!-- Request errors -->
+    <string name="request_error">Een fout heeft zich voorgedaan.</string>
+    <string name="request_connexion_error">Connectie error.\nCheck je internet connectie.</string>
+    
+    <!-- Activity title -->
+    <string name="credentials_activity_title">Met dank aan</string>
+    
+    <!-- Time values -->
+    <string name="seconds_ago">%d seconden geleden</string>
+    <string name="one_minute_ago">Een minuut geleden</string>
+    <string name="minutes_ago">%d minuten geleden</string>
+    <string name="one_hour_ago">Een uur geleden</string>
+    <string name="hours_ago">%d uren geleden</string>
+    <string name="one_day_ago">Een dag geleden</string>
+    <string name="days_ago">%d dagen geleden</string>
+    <string name="one_month_ago">Een maand geleden</string>
+    <string name="months_ago">%d maanden geleden</string>
+    <string name="years_ago">%d ja(a)r(en)</string>
+    
+    <!-- Thread -->
+    <string name="thread_one_user">%1$s</string>
+    <string name="thread_two_users">%1$s en %2$s</string>
+    <string name="thread_many_users">%1$s, %2$s en %3$d anderen</string>
+
+    <!-- Credentials -->
+    <string name="credentials_apis">APIs</string>
+    <string name="credentials_icons">Iconen</string>
+    <string name="credentials_translators">Vertalers</string>
+    
+    <!-- Empty lists -->
+    <string name="empty_list_no_friend">Geen vrienden</string>
+    <string name="empty_list_no_message">Geen berichten</string>
+
+
+    <!-- About -->
+    <string name="about_version">Versie %1$s</string>
+    <string name="about_activity_title">Over</string>
+    <string name="about_copyright">Copyright © 2013 Abewy</string>
+    <string name="about_all_rights_reserved">Alle rechten voorbehouden</string>
+
+    <!-- Feedback -->
+    <string name="feedback_send_mail">Zend een mail</string>
+    <string name="feedback_support_mail_address">upport.klyph.messenger@abewy.com</string>
+    <string name="feedback_found_a_bug">Een suggestie ?\nEen fout gevonden ?\nLaat het weten !</string>
+    <string name="feedback_send_suggest">Zend een suggestie</string>
+    <string name="feedback_send_bug">Meld een fout</string>
+    <string name="feedback_g_plus_community">G+ gemeenschap</string>
+    <string name="restart">Herstarten</string>
+    <string name="option_need_restart">Een herstart is noodzakelijk om deze optie toe te passen.</string>
+    <string name="soon">Binnenkort &#8230;</string>
+
+    <!-- Change log -->
+    <string name="title_changelog">Wijzig logboek</string>
+    <string name="changelog_close">Sluiten</string>
+    <string name="changelog_activity_title">Wijzig logboek</string>
+    
+     <!-- Preferences -->
+    <string name="preferences">Voorkeuren</string>
+    <string name="preference_theme_title">Thema</string>
+    <string name="preferences_themes_dialog_title">Kies een thema</string>
+    <string name="preference_about_title">Over</string>
+    <string name="preference_credits_title">Met dank aan</string>
+    <string name="preference_credits_apis_title">APIs</string>
+    <string name="preference_credits_icons_title">Iconen</string>
+    <string name="preference_credits_tools_title">Hulpmiddelen</string>
+    <string name="preference_changelog_title">Wijzig logboek</string>
+    <string name="preference_notifications_title">Meldingen</string>
+    <string name="preference_notification_title">Melding</string>
+    <string name="preference_notification_summary">Meldingen aanzetten</string>
+    <string name="preference_app_language_title">Applicatietaal</string>
+    <string name="preferences_app_language_dialog_title">Verander applicatietaal naar</string>
+    <string name="preference_fb_language_title">Facebooktaal</string>
+    <string name="preferences_fb_language_dialog_title">Verander facebooktaal naar</string>
+    <string name="preference_performances_title">Prestaties</string>
+    <string name="preference_performances_rounded_profile_picture_summary">Het effect uitzetten verbetert de prestaties</string>
+    <string name="preference_performances_rounded_profile_picture_title">Zet ronde profielfoto’s aan</string>
+    <string name="preference_notification_vibrate_title">Trillen</string>
+    <string name="preference_notification_ringtone_title">Beltoon</string>
+    <string name="preference_notifications_ringtone">Beltoon</string>
+    <string name="preference_notifications_song">Lied</string>
+    <string name="preference_notification_ringtone_chooser">Kies een beltoon </string>
+    <string name="preference_buy_pro_version_title">Koop de pro-versie</string>
+    
+    <!-- InApp Billing -->
+    <string name="thank_you">Dank U !</string>
+    <string name="thank_you_purchase">Bedankt om te upgraden naar de ad free versie !</string>
+	
+</resources>

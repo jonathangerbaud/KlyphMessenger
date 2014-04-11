@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<changelog>
+    <release version="0.9.4" versioncode="14">
+        <change>Improved: Overall design</change>
+        <change>Added: In app option to hide ads</change>
+        <change>Added: Friend's name(s) in action bar when in conversation</change>
+        <change>Improved: Notifications text</change>
+        <change>Improved: no more loading when coming back from settings after theme or language modification</change>
+    </release>
+    <release version="0.9.3" versioncode="13">
+        <change>Added: Notification LED</change>
+        <change>Fixed: Image loading on Android 4.4</change>
+        <change>Replaced: UniversalImageLoader library by Picasso library</change>
+        <change>Dropped: Support for pre Android 4.0 devices</change>
+        <change>Added: FAQ</change>
+        <change>Fixed: Action bar for dark themes</change>
+    </release>
+    <release version="0.9.2" versioncode="12">
+    	<change>Updated: Smack 0.8.3 to 0.8.5</change>   
+    	<change>Added: sending a message updates the conversation list snippets</change>   
+    	<change>Deleted: Buy Klyph Pro in Settings</change>   
+    </release>
+    <release version="0.9.1" versioncode="11">
+        <change>Fixed: Chinese date still displayed year</change>
+        <change>Fixed: Conversation list selection was erratic</change>
+        <change>Fixed: Display bug on landscape for high res screens</change>
+        <change>Added: XXHDPI launcher icon</change>
+        <change>Removed: License checking</change>
+        <change>Fixed: Emojis in URLs on conversation list pane</change>
+        <change>Removed: shared user id</change>
+    </release>
+    <release version="0.8.0" versioncode="9">
+        <change>Fixed: Crash when selecting a conversation and service not connected</change>
+        <change>Fixed: Crash when logging out without having selected a conversation before</change>
+        <change>Fixed: Crash when leaving the app when not logged in</change>
+        <change>Fixed: Year is displayed in messages on Chinese Traditional</change>
+        <change>Added: Translations</change>
+        <change>Added: Better reconnection handling => battery saver</change>
+        <change>Added: Reconnect if no connection at first launch</change>
+    </release>
+    <release version="0.7.0" versioncode="8">
+        <change>Fixed: notification crash</change>
+        <change>Added: Conversations list loads new conversations when a non-listed friend send a message</change>
+        <change>Added: Conversations list refresh when coming back to the app</change>
+        <change>Added: shared user id in manifest</change>
+    </release>
+    <release version="0.6.0" versioncode="7">
+        <change>Added: Licensing system</change>
+        <change>Added: Notifications options : enabled, vibrate, ringtone</change>
+        <change>Added: Rounded avatars option</change>
+        <change>Fixed: Word suggestions not appearing when typing text</change>
+        <change>Fixed: No spacing between date and avatar picture when sending a short message</change>
+        <change>Added: New emoticon set</change>
+    </release>
+    <release version="0.5.0" versioncode="6">
+        <change>Improved: Shorter bubbles</change>
+        <change>Added: Open links in messages</change>
+        <change>Improved: Full width right pane on portrait mode</change>
+        <change>Removed: Links style on conversation snippet</change>
+        <change>Improved: Better emoticon management when typing text</change>
+    </release>
+    <release version="0.4.0" versioncode="5">
+        <change>Added: About section</change>
+        <change>Added: Changelog section</change>
+        <change>Added: Feedback section</change>
+        <change>Added: New emojis</change>
+        <change>Added: Online status on conversations panel</change>
+        <change>Added: New app logo</change>
+        <change>Improved: Performances after login</change>
+        <change>Added: Notifications</change>
+     </release>
+    <release version="0.3.0" versioncode="4">
+        <change>Added emoji support</change>
+        <change>Enabled search friend feature</change>
+    </release>
+    <release version="0.2.1" versioncode="3">
+        <change>Fixed touch bug (can't scroll, can't click) on right pane</change>
+        <change>Fixed logout crash</change>
+    </release>
+    <release version="0.2.0" versioncode="2">
+        <change>Added search bar</change>
+        <change>Chat service put in background</change>
+        <change>Design improvments</change>
+    </release>
+    <release version="0.1.0" versioncode="1">
+        <change>Initial realease</change>
+    </release>     
+</changelog>

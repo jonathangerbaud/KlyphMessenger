@@ -1,0 +1,11 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:left="@dimen/list_left_right_padding"
+        android:right="@dimen/list_left_right_padding">
+        <shape android:shape="rectangle" >
+            <solid android:color="@color/dark_theme_divider_color" />
+        </shape>
+    </item>
+
+</layer-list>

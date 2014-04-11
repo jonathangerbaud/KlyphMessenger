@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	
+	<!-- Notifications -->
+	<string name="new_messages">%1$d új üzenet</string>
+	<string name="new_message_from"><b>%1$s</b> : %2$s</string>
+	
+	<!-- Chat -->
+    <string name="online">Elérhető</string>
+    <string name="offline">Nem elérhető</string>
+    
+    <!-- Conversation -->
+    <string name="send_message">Küldj üzenetet</string>
+    <string name="my_last_message">Én: %1$s</string>
+	<string name="friend_last_message">%1$s : %2$s</string>
+    
+    <!-- Menu -->
+    <string name="menu_new_conversation">Új beszélgetés</string>
+    <string name="menu_logout">Kijelentkezés</string>
+    <string name="menu_preferences">Beállítások</string>
+    <string name="menu_feedback">Ötlet/Hiba</string>
+    <string name="menu_faq">FAQ</string>
+    <string name="menu_buy_pro">No more ads !</string>
+    
+    <!-- General -->
+    <string name="defaultString">Alapbeállítás</string>
+    <string name="search">Keresés</string>
+    <string name="close">Bezárás</string>
+    <string name="open">Megnyitás</string>
+    <string name="refresh">Frissítés</string>
+    <string name="copy_text">Szöveg másolása</string>
+    <string name="download_image">Kép letöltése</string>
+    <string name="view_profile">Profil megtekintése</string>
+    <string name="more">Tovább</string>
+    <string name="reply">Válasz</string>
+    <string name="hide">Elrejt</string>
+    <string name="none">Nincs</string>
+    <string name="ok">Rendben</string>
+    <string name="cancel">Mégse</string>
+    <string name="error">Hiba</string>
+    
+    <!-- Preferences -->
+    <string name="preferences">Beállítások</string>
+    <string name="preferences_ui_title">Felhasználói felület</string>
+    <string name="preference_theme_title">Téma</string>
+    <string name="preferences_themes_dialog_title">Válassz témát</string>
+    <string name="preference_about_title">Rólunk</string>
+    <string name="preference_credits_title">Készítők</string>
+    <string name="preference_credits_apis_title">API-k</string>
+    <string name="preference_credits_icons_title">Ikonok</string>
+    <string name="preference_credits_tools_title">Eszközök</string>
+    <string name="preference_changelog_title">Verzió megjegyzések</string>
+    <string name="preference_app_language_title">Alkalmazás nyelve</string>
+    <string name="preferences_app_language_dialog_title">Alkalmazás nyelvének beállítása:</string>
+    <string name="preference_fb_language_title">Facebook nyelve</string>
+    <string name="preferences_fb_language_dialog_title">A Facebook nyelvének beállítása:</string>
+    <string name="preference_buy_pro_version_title">Vedd meg a Pro verziót</string>
+	<string name="credentials_translators">Fordítók</string>
+	
+	<!-- Buttons -->
+    <string name="request_error_retry">Újra</string>
+
+    <!-- Request errors -->
+    <string name="request_error">Hiba történt.</string>
+    <string name="request_connexion_error">Csatlakozási hiba.\nEllenőrizd az internetkapcsolatot.</string>
+    
+    <!-- Activity title -->
+    <string name="credentials_activity_title">Készítők</string>
+    
+    <!-- Time values -->
+    <string name="seconds_ago">%d másodperce</string>
+    <string name="one_minute_ago">Egy perce</string>
+    <string name="minutes_ago">%d perce</string>
+    <string name="one_hour_ago">egy órája</string>
+    <string name="hours_ago">%d órája</string>
+    <string name="one_day_ago">Egy napja</string>
+    <string name="days_ago">%d napja</string>
+    <string name="one_month_ago">Egy hónapja</string>
+    <string name="months_ago">%d hónapja</string>
+    <string name="years_ago">%d éve</string>
+    
+    <!-- Thread -->
+    <string name="thread_one_user">%1$s</string>
+    <string name="thread_two_users">%1$s és %2$s</string>
+    <string name="thread_many_users">%1$s, %2$s és %3$d további ismerős</string>
+
+    <!-- Credentials -->
+    <string name="credentials_apis">API-k</string>
+    <string name="credentials_icons">Ikonok</string>
+    <string name="credentials_translators">Fordítók</string>
+    
+    <!-- Empty lists -->
+    <string name="empty_list_no_friend">Nincsenek ismerősök</string>
+    <string name="empty_list_no_message">Nincsenek üzenetek</string>
+
+
+    <!-- About -->
+    <string name="about_version">Verzió: %1$s</string>
+    <string name="about_activity_title">Rólunk</string>
+    <string name="about_copyright">Copyright © 2013 Abewy</string>
+    <string name="about_all_rights_reserved">Minden jog fenntartva!</string>
+
+    <!-- Feedback -->
+    <string name="feedback_send_mail">Email küldése</string>
+    <string name="feedback_support_mail_address">support.klyph@abewy.com</string>
+    <string name="feedback_found_a_bug">Javaslatod van? \nHibát találtál? \nÍrd meg nekünk!</string>
+    <string name="feedback_send_suggest">Küldj javaslatot</string>
+    <string name="feedback_send_bug">Hibabejelentés</string>
+    <string name="feedback_g_plus_community">G+ közösség</string>
+    <string name="restart">Újraindítás</string>
+    <string name="option_need_restart">Újraindítás szükséges az új funkció beállításához.</string>
+    <string name="soon">Soon &#8230;</string>
+
+    <!-- Change log -->
+    <string name="title_changelog">Verzió megjegyzések</string>
+    <string name="changelog_close">Bezárás</string>
+    <string name="changelog_activity_title">Verzió megjegyzések</string>
+    
+     <!-- Preferences -->
+    <string name="preferences">Beállítások</string>
+    <string name="preference_theme_title">Téma</string>
+    <string name="preferences_themes_dialog_title">Válassz témát</string>
+    <string name="preference_about_title">Rólunk</string>
+    <string name="preference_credits_title">Készítők</string>
+    <string name="preference_credits_apis_title">API-k</string>
+    <string name="preference_credits_icons_title">Ikonok</string>
+    <string name="preference_credits_tools_title">Eszközök</string>
+    <string name="preference_changelog_title">Verzió megjegyzések</string>
+    <string name="preference_notifications_title">Értesítések</string>
+    <string name="preference_notification_title">Értesítés</string>
+    <string name="preference_notification_summary">Értesítések bekapcsolása</string>
+    <string name="preference_app_language_title">Alkalmazás nyelve</string>
+    <string name="preferences_app_language_dialog_title">Alkalmazás nyelvének beállítása:</string>
+    <string name="preference_fb_language_title">Facebook nyelve</string>
+    <string name="preferences_fb_language_dialog_title">A Facebook nyelvének beállítása:</string>
+    <string name="preference_performances_title">Teljesítmény</string>
+    <string name="preference_performances_rounded_profile_picture_summary">Az effekt kikapcsolása javítja a teljesítményt</string>
+    <string name="preference_performances_rounded_profile_picture_title">Kerekített profilképek bekapcsolása</string>
+    <string name="preference_notification_vibrate_title">Rezgés</string>
+    <string name="preference_notification_ringtone_title">Csengőhang</string>
+    <string name="preference_notifications_ringtone">Csengőhang</string>
+    <string name="preference_notifications_song">Zene</string>
+    <string name="preference_notification_ringtone_chooser">Válassz csengőhangot</string>
+    <string name="preference_buy_pro_version_title">Vedd meg a Pro verziót</string>
+    
+    <!-- InApp Billing -->
+    <string name="thank_you">Thank you !</string>
+    <string name="thank_you_purchase">Thank you for upgrading to the ad free version !</string>
+	
+</resources>

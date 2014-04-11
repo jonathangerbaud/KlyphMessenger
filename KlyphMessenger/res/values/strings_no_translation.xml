@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	
+    <!-- To not translate -->
+    
+    <string name="app_name">Klyph Messenger</string>
+    <string name="app_pro_name">Klyph Messenger Pro</string>
+    <string name="app_pro_large_name">Klyph Messenger Pro for Facebook</string>
+    <string name="app_large_name">Klyph Messenger for Facebook (Beta)</string>
+    
+    <string name="company_url">http://www.abewy.com</string>
+    <string name="google_plus_community_url">https://plus.google.com/communities/108701133516085969362</string>
+    
+    <!-- Admob -->
+	<string name="admob_id">[ADMOB_ID]</string>
+	
+	<!-- Facebook -->
+	<string name="app_id">[FB_APP_ID]</string>
+    <string name="fb_app_secret">[FB_APP_SECRET]</string>
+    
+	<!-- Themes -->
+    <string name="theme_light_blue">lightBlue</string>
+    <string name="theme_dark_blue">darkBlue</string>
+    <string name="theme_black_blue">blackBlue</string>
+    <string name="theme_light_green">lightGreen</string>
+    <string name="theme_dark_green">darkGreen</string>
+    <string name="theme_black_green">blackGreen</string>
+    
+</resources>

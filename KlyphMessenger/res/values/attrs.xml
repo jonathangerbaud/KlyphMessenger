@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <attr name="themeColor" format="reference|color" />
+    
+    <attr name="refreshIcon" format="reference" />
+    <attr name="backToTopIcon" format="reference" />
+    <attr name="sendIcon" format="reference" />
+    <attr name="sendIconSelector" format="reference" />
+    <attr name="addIcon" format="reference" />
+    <attr name="emojiIcon" format="reference" />
+    
+    <attr name="ab_split_background" format="reference" />
+    <attr name="buttonBarButtonStyle" format="reference" />
+    
+    <attr name="leftPaneBackground" format="reference|color" />
+    <attr name="rightPaneBackground" format="reference|color" />
+    <attr name="picturePlaceHolder" format="reference|color" />
+    <attr name="slidingPaneFadeColor" format="reference|color" />
+    <attr name="headerTextColor" format="reference|color" />
+    <attr name="headerTextBorderColor" format="reference|color" />
+    <attr name="dividerColor" format="reference|color" />
+    <attr name="dividerDrawable" format="reference|color" />
+    <attr name="sendMessageTextBackground" format="reference|color" />
+    <attr name="searchBarBackground" format="reference|color" />
+    <attr name="emojiBarBackground" format="reference|color" />
+    <attr name="conversationListSelectedBackground" format="reference|color" />
+    
+    <attr name="leftConversationBubbleBackground" format="reference|color" />
+    <attr name="rightConversationBubbleBackground" format="reference|color" />
+    
+
+    <!-- SlidingDrawer -->
+    <declare-styleable name="KlyphSlidingDrawer">
+		<attr name="handle" format="reference" />
+		<attr name="content" format="reference" />
+		<attr name="orientation"  format="integer" />
+		<attr name="bottomOffset" format="dimension" />
+		<attr name="topOffset" format="dimension" />
+		<attr name="allowSingleTap" format="boolean" />
+		<attr name="animateOnClick" format="boolean" />
+	</declare-styleable>
+	
+    <!-- Reference to an array resource that will populate a list/adapter. -->
+    <attr name="entries" format="reference" />
+    <attr name="entryValues" format="reference" />
+	
+    <declare-styleable name="MultiSelectDragListPreference">
+        <!-- The human-readable array to present as a list. Each entry must have a corresponding
+             index in entryValues. -->
+        <attr name="entries" />
+        <!-- The array to find the value to save for a preference when an entry from
+             entries is selected. If a user clicks the second item in entries, the
+             second item in this array will be saved to the preference. -->
+        <attr name="entryValues" />
+    </declare-styleable>
+    
+    <declare-styleable name="BezelImageView">
+        <attr name="maskDrawable" format="reference" />
+        <attr name="borderDrawable" format="reference" />
+        <attr name="desaturateOnPress" format="boolean" />
+    </declare-styleable>
+</resources>

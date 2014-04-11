@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingLeft="1px" >
+    
+    <FrameLayout
+        android:id="@+id/search_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="4dp"
+        android:background="?attr/sendMessageTextBackground" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="48dp"
+            android:paddingBottom="4dp"
+            android:background="?attr/searchBarBackground"
+            android:orientation="horizontal" >
+
+            <EditText
+                android:id="@+id/search_text_edit"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_weight="1"
+                android:background="@null"
+                android:hint="Enter a friend's name"
+                android:inputType="textNoSuggestions"
+                android:paddingLeft="8dp"
+                android:textSize="14sp"
+                android:textColor="?android:attr/textColorSecondary" />
+        </LinearLayout>
+    </FrameLayout>
+
+    <FrameLayout
+        android:id="@+id/listContainer"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1" >
+
+        <ProgressBar
+            android:id="@android:id/progress"
+            style="?android:attr/progressBarStyleLarge"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center" />
+
+        <FrameLayout
+            android:id="@+id/listContainer"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+
+            <ListView
+                android:id="@android:id/list"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:dividerHeight="@dimen/dip_1"
+                android:divider="?attr/dividerColor"
+                />
+        </FrameLayout>
+    </FrameLayout>
+
+</LinearLayout>

@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	
+	<!-- Notifications -->
+	<string name="new_messages">%1$d tin nhắn mới</string>
+	<string name="new_message_from"><b>%1$s</b> : %2$s</string>
+	
+	<!-- Chat -->
+    <string name="online">Online</string>
+    <string name="offline">Chưa online</string>
+    
+    <!-- Conversation -->
+    <string name="send_message">Gửi tin nhắn</string>
+    <string name="my_last_message">Tôi : %1$s</string>
+	<string name="friend_last_message">%1$s : %2$s</string>
+    
+    <!-- Menu -->
+    <string name="menu_new_conversation">Cuộc trò chuyện mới</string>
+    <string name="menu_logout">Đăng xuất</string>
+    <string name="menu_preferences">Thiết lập</string>
+    <string name="menu_feedback">Đề nghị/báo lỗi</string>
+    <string name="menu_faq">FAQ</string>
+    <string name="menu_buy_pro">No more ads !</string>
+    
+    <!-- General -->
+    <string name="defaultString">Mặc định</string>
+    <string name="search">Tìm kiếm</string>
+    <string name="close">Đóng</string>
+    <string name="open">Mở</string>
+    <string name="refresh">Tải lại</string>
+    <string name="copy_text">Chép văn bản</string>
+    <string name="download_image">Tải ảnh</string>
+    <string name="view_profile">Xem trang cá nhân</string>
+    <string name="more">Thêm</string>
+    <string name="reply">Trả lời</string>
+    <string name="hide">Ẩn</string>
+    <string name="none">Không có</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Huỷ</string>
+    <string name="error">Lỗi</string>
+    
+    <!-- Preferences -->
+    <string name="preferences">Tuỳ chọn</string>
+    <string name="preferences_ui_title">Giao diện người dùng</string>
+    <string name="preference_theme_title">Chủ đề</string>
+    <string name="preferences_themes_dialog_title">Chọn chủ đề</string>
+    <string name="preference_about_title">Thông tin</string>
+    <string name="preference_credits_title">Người đóng góp</string>
+    <string name="preference_credits_apis_title">API</string>
+    <string name="preference_credits_icons_title">Biểu tượng</string>
+    <string name="preference_credits_tools_title">Công cụ</string>
+    <string name="preference_changelog_title">Thay đổi</string>
+    <string name="preference_app_language_title">Ngôn ngữ</string>
+    <string name="preferences_app_language_dialog_title">Thay đổi ngôn ngữ ứng dụng sang</string>
+    <string name="preference_fb_language_title">Ngôn ngữ Facebook</string>
+    <string name="preferences_fb_language_dialog_title">Thay đổi ngôn ngữ Facebook</string>
+    <string name="preference_buy_pro_version_title">Mua bản Pro</string>
+	<string name="credentials_translators">Dịch giả</string>
+	
+	<!-- Buttons -->
+    <string name="request_error_retry">Thử lại</string>
+
+    <!-- Request errors -->
+    <string name="request_error">Đã xảy ra lỗi.</string>
+    <string name="request_connexion_error">Lỗi kết nối.\nHãy kiểm tra lại kết nối internet của bạn.</string>
+    
+    <!-- Activity title -->
+    <string name="credentials_activity_title">Người đóng góp</string>
+    
+    <!-- Time values -->
+    <string name="seconds_ago">%d giây trước</string>
+    <string name="one_minute_ago">Một phút trước</string>
+    <string name="minutes_ago">%d phút trước</string>
+    <string name="one_hour_ago">Một giờ trước</string>
+    <string name="hours_ago">%d giờ trước</string>
+    <string name="one_day_ago">Một ngày trước</string>
+    <string name="days_ago">%d ngày trước</string>
+    <string name="one_month_ago">Một tháng trước</string>
+    <string name="months_ago">%d tháng trước</string>
+    <string name="years_ago">%d năm trước</string>
+    
+    <!-- Thread -->
+    <string name="thread_one_user">%1$s</string>
+    <string name="thread_two_users">%1$s và %2$s</string>
+    <string name="thread_many_users">%1$s, %2$s và %3$d người khác</string>
+
+    <!-- Credentials -->
+    <string name="credentials_apis">API</string>
+    <string name="credentials_icons">Biểu tượng</string>
+    <string name="credentials_translators">Dịch giả</string>
+    
+    <!-- Empty lists -->
+    <string name="empty_list_no_friend">Không có bạn bè</string>
+    <string name="empty_list_no_message">Không có tin nhắn</string>
+
+
+    <!-- About -->
+    <string name="about_version">Phiên bản %1$s</string>
+    <string name="about_activity_title">Thông tin</string>
+    <string name="about_copyright">Bản quyền © 2013 Abewy</string>
+    <string name="about_all_rights_reserved">Mọi quyền được bảo lưu</string>
+
+    <!-- Feedback -->
+    <string name="feedback_send_mail">Gửi thư</string>
+    <string name="feedback_support_mail_address">support.klyph@abewy.com</string>
+    <string name="feedback_found_a_bug">Có đề nghị ?\nBạn tìm thấy lỗi ?\nHãy cho chúng tôi biết !</string>
+    <string name="feedback_send_suggest">Gửi đề nghị</string>
+    <string name="feedback_send_bug">Báo cáo lỗi</string>
+    <string name="feedback_g_plus_community">Cộng đồng G+</string>
+    <string name="restart">Khởi động lại</string>
+    <string name="option_need_restart">Bạn cần khởi động lại để áp dụng tuỳ chọn này.</string>
+    <string name="soon">Sắp có &#8230;</string>
+
+    <!-- Change log -->
+    <string name="title_changelog">Thay đổi</string>
+    <string name="changelog_close">Đóng</string>
+    <string name="changelog_activity_title">Thay đổi</string>
+    
+     <!-- Preferences -->
+    <string name="preferences">Tuỳ chọn</string>
+    <string name="preference_theme_title">Chủ đề</string>
+    <string name="preferences_themes_dialog_title">Chọn chủ đề</string>
+    <string name="preference_about_title">Thông tin</string>
+    <string name="preference_credits_title">Người đóng góp</string>
+    <string name="preference_credits_apis_title">API</string>
+    <string name="preference_credits_icons_title">Biểu tượng</string>
+    <string name="preference_credits_tools_title">Công cụ</string>
+    <string name="preference_changelog_title">Thay đổi</string>
+    <string name="preference_notifications_title">Thông báo</string>
+    <string name="preference_notification_title">Thông báo</string>
+    <string name="preference_notification_summary">Kích hoạt thông báo</string>
+    <string name="preference_app_language_title">Ngôn ngữ</string>
+    <string name="preferences_app_language_dialog_title">Thay đổi ngôn ngữ ứng dụng sang</string>
+    <string name="preference_fb_language_title">Ngôn ngữ Facebook</string>
+    <string name="preferences_fb_language_dialog_title">Thay đổi ngôn ngữ Facebook</string>
+    <string name="preference_performances_title">Hiệu năng</string>
+    <string name="preference_performances_rounded_profile_picture_summary">Vô hiệu hiệu ứng sẽ tăng hiệu suất</string>
+    <string name="preference_performances_rounded_profile_picture_title">Sử dụng ảnh cá nhân được làm tròn</string>
+    <string name="preference_notification_vibrate_title">Rung</string>
+    <string name="preference_notification_ringtone_title">Chuông</string>
+    <string name="preference_notifications_ringtone">Chuông</string>
+    <string name="preference_notifications_song">bài hát</string>
+    <string name="preference_notification_ringtone_chooser">Chọn nhạc chuông</string>
+    <string name="preference_buy_pro_version_title">Mua bản Pro</string>
+    
+    <!-- InApp Billing -->
+    <string name="thank_you">Cảm ơn!</string>
+    <string name="thank_you_purchase">Cảm ơn bạn đã nâng cấp lên phiên bản không có quảng cáo!</string>
+	
+</resources>

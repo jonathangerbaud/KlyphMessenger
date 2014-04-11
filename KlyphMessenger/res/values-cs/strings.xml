@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	
+	<!-- Notifications -->
+	<string name="new_messages">%1$d nových zpráv</string>
+	<string name="new_message_from"><b>%1$s</b> : %2$s</string>
+	
+	<!-- Chat -->
+    <string name="online">Online</string>
+    <string name="offline">Offline</string>
+    
+    <!-- Conversation -->
+    <string name="send_message">Poslat zprávu</string>
+    <string name="my_last_message">Já : %1$s</string>
+	<string name="friend_last_message">%1$s : %2$s</string>
+    
+    <!-- Menu -->
+    <string name="menu_new_conversation">Nová konverzace</string>
+    <string name="menu_logout">Odhlásit se</string>
+    <string name="menu_preferences">Nastavení</string>
+    <string name="menu_feedback">Navrhnout/Bug</string>
+    <string name="menu_faq">FAQ</string>
+    <string name="menu_buy_pro">No more ads !</string>
+    
+    <!-- General -->
+    <string name="defaultString">Standardní</string>
+    <string name="search">Hledat</string>
+    <string name="close">Zavřít</string>
+    <string name="open">Otevřit</string>
+    <string name="refresh">Obnovit</string>
+    <string name="copy_text">Kopírovat text</string>
+    <string name="download_image">Stáhnout obrázek</string>
+    <string name="view_profile">Prohlédnout profil</string>
+    <string name="more">Více</string>
+    <string name="reply">Odpovědět</string>
+    <string name="hide">Schovat</string>
+    <string name="none">Žádný</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="error">Error</string>
+    
+    <!-- Preferences -->
+    <string name="preferences">Nastavení</string>
+    <string name="preferences_ui_title">Uživatelské rozhraní</string>
+    <string name="preference_theme_title">Motiv</string>
+    <string name="preferences_themes_dialog_title">Zvolte motiv</string>
+    <string name="preference_about_title">O aplikaci</string>
+    <string name="preference_credits_title">Zásluhy</string>
+    <string name="preference_credits_apis_title">APIs</string>
+    <string name="preference_credits_icons_title">Ikony</string>
+    <string name="preference_credits_tools_title">Nástroje</string>
+    <string name="preference_changelog_title">Seznam změn</string>
+    <string name="preference_app_language_title">Jazyk aplikace</string>
+    <string name="preferences_app_language_dialog_title">Změnit jazyk aplikace na</string>
+    <string name="preference_fb_language_title">Jazyk Facebooku</string>
+    <string name="preferences_fb_language_dialog_title">Změnit jazyk Facebooku na</string>
+    <string name="preference_buy_pro_version_title">Kupte si verzi Pro</string>
+	<string name="credentials_translators">Překladači</string>
+	
+	<!-- Buttons -->
+    <string name="request_error_retry">Opakovat</string>
+
+    <!-- Request errors -->
+    <string name="request_error">Objevila se chyba.</string>
+    <string name="request_connexion_error">Chyba připojení.\nZkontrolujte internetové připojení.</string>
+    
+    <!-- Activity title -->
+    <string name="credentials_activity_title">Credits</string>
+    
+    <!-- Time values -->
+    <string name="seconds_ago">před %d sekundami</string>
+    <string name="one_minute_ago">Před jednou minutou</string>
+    <string name="minutes_ago">před %d minutami</string>
+    <string name="one_hour_ago">před hodinou</string>
+    <string name="hours_ago">před %d hodinami</string>
+    <string name="one_day_ago">Před jedním dnem</string>
+    <string name="days_ago">před %d dny</string>
+    <string name="one_month_ago">Před měsícem</string>
+    <string name="months_ago">před %d měsíci</string>
+    <string name="years_ago">před %d lety</string>
+    
+    <!-- Thread -->
+    <string name="thread_one_user">%1$s</string>
+    <string name="thread_two_users">%1$s a %2$s</string>
+    <string name="thread_many_users">%1$s, %2$s a %3$d další</string>
+
+    <!-- Credentials -->
+    <string name="credentials_apis">APIs</string>
+    <string name="credentials_icons">Ikony</string>
+    <string name="credentials_translators">Překladači</string>
+    
+    <!-- Empty lists -->
+    <string name="empty_list_no_friend">Žádní přátelé</string>
+    <string name="empty_list_no_message">Žádné zprávy</string>
+
+
+    <!-- About -->
+    <string name="about_version">Verze %1$s</string>
+    <string name="about_activity_title">O aplikaci</string>
+    <string name="about_copyright">Copyright © 2013 Abewy</string>
+    <string name="about_all_rights_reserved">Všechna práva vyhrazena</string>
+
+    <!-- Feedback -->
+    <string name="feedback_send_mail">Poslat email</string>
+    <string name="feedback_support_mail_address">support.klyph@abewy.com</string>
+    <string name="feedback_found_a_bug">Návrh ?\nNašel jste bug ?\nDejte nám vědět !</string>
+    <string name="feedback_send_suggest">Poslat návrh</string>
+    <string name="feedback_send_bug">Ohlásit bug</string>
+    <string name="feedback_g_plus_community">G+ komunita</string>
+    <string name="restart">Restartovat</string>
+    <string name="option_need_restart"> Pro potvrzení nastavení je nutné restartovat aplikaci.</string>
+    <string name="soon">Soon &#8230;</string>
+
+    <!-- Change log -->
+    <string name="title_changelog">Seznam změn</string>
+    <string name="changelog_close">Zavřít</string>
+    <string name="changelog_activity_title">Seznam změn</string>
+    
+     <!-- Preferences -->
+    <string name="preferences">Nastavení</string>
+    <string name="preference_theme_title">Motiv</string>
+    <string name="preferences_themes_dialog_title">Zvolte motiv</string>
+    <string name="preference_about_title">O aplikaci</string>
+    <string name="preference_credits_title">Zásluhy</string>
+    <string name="preference_credits_apis_title">APIs</string>
+    <string name="preference_credits_icons_title">Ikony</string>
+    <string name="preference_credits_tools_title">Nástroje</string>
+    <string name="preference_changelog_title">Seznam změn</string>
+    <string name="preference_notifications_title">Notifikace</string>
+    <string name="preference_notification_title">Notifikace</string>
+    <string name="preference_notification_summary">Povolit notifikace</string>
+    <string name="preference_app_language_title">Jazyk aplikace</string>
+    <string name="preferences_app_language_dialog_title">Změnit jazyk aplikace na</string>
+    <string name="preference_fb_language_title">Jazyk Facebooku</string>
+    <string name="preferences_fb_language_dialog_title">Změnit jazyk Facebooku na</string>
+    <string name="preference_performances_title">Výkon</string>
+    <string name="preference_performances_rounded_profile_picture_summary"> Deaktivování efektu vylepší výkon </string>
+    <string name="preference_performances_rounded_profile_picture_title">Aktivovat kulaté profilové fotky</string>
+    <string name="preference_notification_vibrate_title">Vibrovat</string>
+    <string name="preference_notification_ringtone_title">Zvonění</string>
+    <string name="preference_notifications_ringtone">Zvonění</string>
+    <string name="preference_notifications_song">Písnička</string>
+    <string name="preference_notification_ringtone_chooser">Zvolte zvonění</string>
+    <string name="preference_buy_pro_version_title">Kupte si verzi Pro</string>
+    
+    <!-- InApp Billing -->
+    <string name="thank_you">Thank you !</string>
+    <string name="thank_you_purchase">Thank you for upgrading to the ad free version !</string>
+	
+</resources>

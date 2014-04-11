@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="screen_background_dark">#202020</drawable>
+    <drawable name="screen_background_light">#F9F9F9</drawable>
+    
+    <!--<drawable name="screen_background_dark">#343434</drawable>
+    <drawable name="screen_background_light">#E5E5E5</drawable>-->
+    
+    <!-- Blue Theme -->
+    <color name="blue_theme_primary">#33B5E5</color>
+    <color name="blue_theme_secondary">#0099CC</color>
+    <color name="blue_theme_selector">#9933B5E5</color>
+    
+    <!-- Green Theme -->
+    <color name="green_theme_primary">#9C0</color>
+    <color name="green_theme_secondary">#690</color>
+    <color name="green_theme_selector">#99C0</color>
+    
+    <!-- Dark Theme -->
+    <color name="dark_background">#202020</color>
+    <color name="dark_theme_primary">#FFF</color>
+    <color name="dark_theme_secondary">#FFF</color>
+    <color name="dark_theme_tertiary">#CCC</color>
+    <color name="dark_theme_icon_color">#CCFFFFFF</color>
+    <color name="list_item_background_dark">#333333</color>
+    <color name="dark_theme_text_time_color">#CCCCCC</color>
+    <color name="dark_theme_menu_background">#333333</color>
+    <color name="dark_theme_left_pane_background">#202020</color>
+    <color name="dark_theme_sliding_pane_fade_color">#80343434</color>
+    <color name="dark_theme_header_color">#A5A5A5</color>
+    <color name="dark_theme_header_bottom_color">#494949</color>
+    <color name="dark_theme_divider_color">#333333</color>
+    
+    <!-- Light Theme -->
+    <color name="light_background">#F0F0F0</color>
+    <color name="light_theme_primary">#000</color>
+    <color name="light_theme_secondary">#333</color>
+    <color name="light_theme_tertiary">#999</color>
+    <color name="light_theme_icon_color">#CC333333</color>
+    <color name="list_item_background_light">#FFFFFF</color>
+    <color name="light_theme_text_time_color">#888888</color>
+    <color name="light_theme_menu_background">#F2F2F2</color>
+    <color name="light_theme_left_pane_background">#F9F9F9</color>
+    <color name="light_theme_sliding_pane_fade_color">#80E5E5E5</color>
+    <color name="light_theme_header_color">#5B5B5B</color>
+    <color name="light_theme_header_bottom_color">#B7B7B7</color>
+    <color name="light_theme_divider_color">#CCCCCC</color>
+</resources>

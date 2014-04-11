@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	
+	<!-- Notifications -->
+	<string name="new_messages">%1$d new messages</string>
+	<string name="new_message_from"><b>%1$s</b> : %2$s</string>
+	
+	<!-- Chat -->
+    <string name="online">Online</string>
+    <string name="offline">Offline</string>
+    
+    <!-- Conversation -->
+    <string name="send_message">Send a message</string>
+    <string name="my_last_message">Me : %1$s</string>
+	<string name="friend_last_message">%1$s : %2$s</string>
+    
+    <!-- Menu -->
+    <string name="menu_new_conversation">New conversation</string>
+    <string name="menu_logout">Log out</string>
+    <string name="menu_preferences">Preferinte</string>
+    <string name="menu_feedback">Sugestii/Bug-uri</string>
+    <string name="menu_faq">FAQ</string>
+    <string name="menu_buy_pro">No more ads !</string>
+    
+    <!-- General -->
+    <string name="defaultString">Default</string>
+    <string name="search">Search</string>
+    <string name="close">Inchide</string>
+    <string name="open">Deschide</string>
+    <string name="refresh">Reimprospatare</string>
+    <string name="copy_text">Copy text</string>
+    <string name="download_image">Download image</string>
+    <string name="view_profile">View profile</string>
+    <string name="more">More</string>
+    <string name="reply">Reply</string>
+    <string name="hide">Hide</string>
+    <string name="none">None</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="error">Error</string>
+    
+    <!-- Preferences -->
+    <string name="preferences">Preferinte</string>
+    <string name="preferences_ui_title">Interfata utilizator</string>
+    <string name="preference_theme_title">Tema</string>
+    <string name="preferences_themes_dialog_title">Alege o tema</string>
+    <string name="preference_about_title">Despre</string>
+    <string name="preference_credits_title">Credite</string>
+    <string name="preference_credits_apis_title">API-uri</string>
+    <string name="preference_credits_icons_title">Iconite</string>
+    <string name="preference_credits_tools_title">Unelte</string>
+    <string name="preference_changelog_title">Log de schimbari</string>
+    <string name="preference_app_language_title">Limba aplicatie</string>
+    <string name="preferences_app_language_dialog_title">Schimba limba in</string>
+    <string name="preference_fb_language_title">Limba facebook</string>
+    <string name="preferences_fb_language_dialog_title">Schimba limba facebook in</string>
+    <string name="preference_buy_pro_version_title">Cumpăra versiunea Pro</string>
+	<string name="credentials_translators">Traducatori</string>
+	
+	<!-- Buttons -->
+    <string name="request_error_retry">Reincercare</string>
+
+    <!-- Request errors -->
+    <string name="request_error">S-a produs o eroare.</string>
+    <string name="request_connexion_error">Eroare de conexiune.\nCheck your internet connection.</string>
+    
+    <!-- Activity title -->
+    <string name="credentials_activity_title">Credite</string>
+    
+    <!-- Time values -->
+    <string name="seconds_ago">%d secunde in urma</string>
+    <string name="one_minute_ago">Acum un minut</string>
+    <string name="minutes_ago">%d minute in urma</string>
+    <string name="one_hour_ago">acum o ora</string>
+    <string name="hours_ago">%d ore inainte</string>
+    <string name="one_day_ago">Acum o zi</string>
+    <string name="days_ago">%d zile in urma</string>
+    <string name="one_month_ago">Acum o luna</string>
+    <string name="months_ago">%d luni in urma</string>
+    <string name="years_ago">%d an(i) in urma</string>
+    
+    <!-- Thread -->
+    <string name="thread_one_user">%1$s</string>
+    <string name="thread_two_users">%1$s si %2$s</string>
+    <string name="thread_many_users">%1$s, %2$s si %3$d altii</string>
+
+    <!-- Credentials -->
+    <string name="credentials_apis">API-uri</string>
+    <string name="credentials_icons">Iconite</string>
+    <string name="credentials_translators">Traducatori</string>
+    
+    <!-- Empty lists -->
+    <string name="empty_list_no_friend">Niciun prieten</string>
+    <string name="empty_list_no_message">No messages</string>
+
+
+    <!-- About -->
+    <string name="about_version">Version %1$s</string>
+    <string name="about_activity_title">Despre</string>
+    <string name="about_copyright">Copyright © 2013 Abewy</string>
+    <string name="about_all_rights_reserved">Toate dreprturile rezervate</string>
+
+    <!-- Feedback -->
+    <string name="feedback_send_mail">Trimite un mail</string>
+    <string name="feedback_support_mail_address">support.klyph@abewy.com</string>
+    <string name="feedback_found_a_bug">Sugestii ?\nAi gasit un bug ?\nLet us know !</string>
+    <string name="feedback_send_suggest">Trimite o sugestie</string>
+    <string name="feedback_send_bug">Raportati un bug</string>
+    <string name="feedback_g_plus_community">G+ community</string>
+    <string name="restart">Restart</string>
+    <string name="option_need_restart">Restartati pentru aplicare optiune.</string>
+    <string name="soon">Curand &#8230;</string>
+
+    <!-- Change log -->
+    <string name="title_changelog">Schimba log</string>
+    <string name="changelog_close">Inchide</string>
+    <string name="changelog_activity_title">Schimba log</string>
+    
+     <!-- Preferences -->
+    <string name="preferences">Preferinte</string>
+    <string name="preference_theme_title">Tema</string>
+    <string name="preferences_themes_dialog_title">Alege o tema</string>
+    <string name="preference_about_title">Despre</string>
+    <string name="preference_credits_title">Credite</string>
+    <string name="preference_credits_apis_title">API-uri</string>
+    <string name="preference_credits_icons_title">Iconite</string>
+    <string name="preference_credits_tools_title">Unelte</string>
+    <string name="preference_changelog_title">Log de schimbari</string>
+    <string name="preference_notifications_title">Notificari</string>
+    <string name="preference_notification_title">Notificare</string>
+    <string name="preference_notification_summary">Activeaza notificari</string>
+    <string name="preference_app_language_title">Limba aplicatie</string>
+    <string name="preferences_app_language_dialog_title">Schimba limba in</string>
+    <string name="preference_fb_language_title">Limba facebook</string>
+    <string name="preferences_fb_language_dialog_title">Schimba limba facebook in</string>
+    <string name="preference_performances_title">Performanta</string>
+    <string name="preference_performances_rounded_profile_picture_summary">Dezactivarea efectului creste performanta</string>
+    <string name="preference_performances_rounded_profile_picture_title">Activeaza imagini profil rotunjite</string>
+    <string name="preference_notification_vibrate_title">Vibrate</string>
+    <string name="preference_notification_ringtone_title">Ringtone</string>
+    <string name="preference_notifications_ringtone">Ringtone</string>
+    <string name="preference_notifications_song">Song</string>
+    <string name="preference_notification_ringtone_chooser">Choose a ringtone</string>
+    <string name="preference_buy_pro_version_title">Cumpăra versiunea Pro</string>
+    
+    <!-- InApp Billing -->
+    <string name="thank_you">Thank you !</string>
+    <string name="thank_you_purchase">Thank you for upgrading to the ad free version !</string>
+	
+</resources>

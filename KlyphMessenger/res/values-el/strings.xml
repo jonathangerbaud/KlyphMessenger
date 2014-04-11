@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	
+	<!-- Notifications -->
+	<string name="new_messages">%1$d new messages</string>
+	<string name="new_message_from"><b>%1$s</b> : %2$s</string>
+	
+	<!-- Chat -->
+    <string name="online">Ενεργοποιημένος</string>
+    <string name="offline">Απενεργοποιημένος</string>
+    
+    <!-- Conversation -->
+    <string name="send_message">Send a message</string>
+    <string name="my_last_message">Me : %1$s</string>
+	<string name="friend_last_message">%1$s : %2$s</string>
+    
+    <!-- Menu -->
+    <string name="menu_new_conversation">New conversation</string>
+    <string name="menu_logout">Έξοδος</string>
+    <string name="menu_preferences">Προτιμήσεις</string>
+    <string name="menu_feedback">Προτείνετε/Σφάλματα</string>
+    <string name="menu_faq">FAQ</string>
+    <string name="menu_buy_pro">No more ads !</string>
+    
+    <!-- General -->
+    <string name="defaultString">Default</string>
+    <string name="search">Search</string>
+    <string name="close">Κλείσιμο</string>
+    <string name="open">Άνοιγμα</string>
+    <string name="refresh">Ανανέωση</string>
+    <string name="copy_text">Copy text</string>
+    <string name="download_image">Download image</string>
+    <string name="view_profile">View profile</string>
+    <string name="more">More</string>
+    <string name="reply">Reply</string>
+    <string name="hide">Hide</string>
+    <string name="none">None</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="error">Error</string>
+    
+    <!-- Preferences -->
+    <string name="preferences">Προτιμήσεις</string>
+    <string name="preferences_ui_title">Διεπαφή χρήστη</string>
+    <string name="preference_theme_title">Θέμα</string>
+    <string name="preferences_themes_dialog_title">Επιλογή θλεματος</string>
+    <string name="preference_about_title">Σχετικά</string>
+    <string name="preference_credits_title">Credits</string>
+    <string name="preference_credits_apis_title">APIs</string>
+    <string name="preference_credits_icons_title">Εικονίδια</string>
+    <string name="preference_credits_tools_title">Εργαλεία</string>
+    <string name="preference_changelog_title">Αλλαγή log</string>
+    <string name="preference_app_language_title">Γλώσσα εφαρμογής</string>
+    <string name="preferences_app_language_dialog_title">Αλλαγή γλώσσας εφαρμογής σε</string>
+    <string name="preference_fb_language_title">Γλώσσα του facebook</string>
+    <string name="preferences_fb_language_dialog_title">Αλλαγή γλώσσας του facebook σε</string>
+    <string name="preference_buy_pro_version_title">Αγοράστε την έκδοση Pro</string>
+	<string name="credentials_translators">Translators</string>
+	
+	<!-- Buttons -->
+    <string name="request_error_retry">Επανάληψη</string>
+
+    <!-- Request errors -->
+    <string name="request_error">Παρουσιάστηκε ένα σφάλμα.</string>
+    <string name="request_connexion_error">Σφάλμα σύνδεσης.\nΕλέγξτε τη σύνδεση στο διαδίκτυο.</string>
+    
+    <!-- Activity title -->
+    <string name="credentials_activity_title">Credits</string>
+    
+    <!-- Time values -->
+    <string name="seconds_ago">Πριν %d δευτερόλεπτα</string>
+    <string name="one_minute_ago">Πριν ένα λεπτό</string>
+    <string name="minutes_ago">Πριν %d λεπτά</string>
+    <string name="one_hour_ago">Πριν μια ώρα</string>
+    <string name="hours_ago">Πριν %d ώρες</string>
+    <string name="one_day_ago">Πριν μία ημέρα</string>
+    <string name="days_ago">Πριν %d ημέρες</string>
+    <string name="one_month_ago">Πριν ένα μήνα</string>
+    <string name="months_ago">Πριν %d μήνες</string>
+    <string name="years_ago">Πριν %d χρόνια</string>
+    
+    <!-- Thread -->
+    <string name="thread_one_user">%1$s</string>
+    <string name="thread_two_users">%1$s και %2$s</string>
+    <string name="thread_many_users">%1$s, %2$s και %3$d άλλοι</string>
+
+    <!-- Credentials -->
+    <string name="credentials_apis">APIs</string>
+    <string name="credentials_icons">Εικονίδια</string>
+    <string name="credentials_translators">Translators</string>
+    
+    <!-- Empty lists -->
+    <string name="empty_list_no_friend">Κανένας φίλος</string>
+    <string name="empty_list_no_message">Κανένα μήνυμα</string>
+
+
+    <!-- About -->
+    <string name="about_version">Έκδοση %1$s</string>
+    <string name="about_activity_title">Σχετικά</string>
+    <string name="about_copyright">Copyright © 2013 Abewy</string>
+    <string name="about_all_rights_reserved">All rights reserved</string>
+
+    <!-- Feedback -->
+    <string name="feedback_send_mail">Αποστολή mail</string>
+    <string name="feedback_support_mail_address">support.klyph@abewy.com</string>
+    <string name="feedback_found_a_bug">Έχετε κάποιοα πρόταση ?\nΒρήκατε κάποιο σφάλμα ?\nΕνημερώστε μας !</string>
+    <string name="feedback_send_suggest">Στείλετε την πρότασή σας</string>
+    <string name="feedback_send_bug">Αναφέρετε ένα σφάλμα</string>
+    <string name="feedback_g_plus_community">G+ community</string>
+    <string name="restart">Επανεκίνηση</string>
+    <string name="option_need_restart"> Χρείαζεται επανεκίνηση για την εφαρμογή αυτής της επιλογής.</string>
+    <string name="soon">Σύντομα &#8230;</string>
+
+    <!-- Change log -->
+    <string name="title_changelog">Αλλαγές από την προηγούμενη έκδοση</string>
+    <string name="changelog_close">Κλείσιμο</string>
+    <string name="changelog_activity_title"> Αλλαγές από την προηγούμενη έκδοση </string>
+    
+     <!-- Preferences -->
+    <string name="preferences">Προτιμήσεις</string>
+    <string name="preference_theme_title">Θέμα</string>
+    <string name="preferences_themes_dialog_title">Επιλογή θλεματος</string>
+    <string name="preference_about_title">Σχετικά</string>
+    <string name="preference_credits_title">Credits</string>
+    <string name="preference_credits_apis_title">APIs</string>
+    <string name="preference_credits_icons_title">Εικονίδια</string>
+    <string name="preference_credits_tools_title">Εργαλεία</string>
+    <string name="preference_changelog_title">Αλλαγή log</string>
+    <string name="preference_notifications_title">Ειδοπιήσεις</string>
+    <string name="preference_notification_title">Ειδοποίηση</string>
+    <string name="preference_notification_summary">Ενεργοποίηση ειδοποιήσεων</string>
+    <string name="preference_app_language_title">Γλώσσα εφαρμογής</string>
+    <string name="preferences_app_language_dialog_title">Αλλαγή γλώσσας εφαρμογής σε</string>
+    <string name="preference_fb_language_title">Γλώσσα του facebook</string>
+    <string name="preferences_fb_language_dialog_title">Αλλαγή γλώσσας του facebook σε</string>
+    <string name="preference_performances_title">Απόδοση</string>
+    <string name="preference_performances_rounded_profile_picture_summary"> Απενεργοποίηση του εφε, βελτιώνει την απόδοση </string>
+    <string name="preference_performances_rounded_profile_picture_title">Ενεργοποίηση κυκλικών φωτογραφιών προφιλ </string>
+    <string name="preference_notification_vibrate_title">Vibrate</string>
+    <string name="preference_notification_ringtone_title">Ringtone</string>
+    <string name="preference_notifications_ringtone">Ringtone</string>
+    <string name="preference_notifications_song">Song</string>
+    <string name="preference_notification_ringtone_chooser">Choose a ringtone</string>
+    <string name="preference_buy_pro_version_title">Αγοράστε την έκδοση Pro</string>
+    
+    <!-- InApp Billing -->
+    <string name="thank_you">Thank you !</string>
+    <string name="thank_you_purchase">Thank you for upgrading to the ad free version !</string>
+	
+</resources>

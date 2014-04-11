@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	
+	<!-- Notifications -->
+	<string name="new_messages">%1$d nuovi messaggi</string>
+	<string name="new_message_from"><b>%1$s</b> : %2$s</string>
+	
+	<!-- Chat -->
+    <string name="online">Online</string>
+    <string name="offline">Offline</string>
+    
+    <!-- Conversation -->
+    <string name="send_message">Invia un messaggio</string>
+    <string name="my_last_message">Io : %1$s</string>
+	<string name="friend_last_message">%1$s : %2$s</string>
+    
+    <!-- Menu -->
+    <string name="menu_new_conversation">Nuova conversazione</string>
+    <string name="menu_logout">Esci</string>
+    <string name="menu_preferences">Preferenze</string>
+    <string name="menu_feedback">Suggerimenti/Bug</string>
+    <string name="menu_faq">FAQ</string>
+    <string name="menu_buy_pro">No more ads !</string>
+    
+    <!-- General -->
+    <string name="defaultString">Predefinito</string>
+    <string name="search">Cerca</string>
+    <string name="close">Chiudi</string>
+    <string name="open">Apri</string>
+    <string name="refresh">Aggiorna</string>
+    <string name="copy_text">Copia testo</string>
+    <string name="download_image">Scarica immagine</string>
+    <string name="view_profile">Visualizza profilo</string>
+    <string name="more">Altro</string>
+    <string name="reply">Rispondi</string>
+    <string name="hide">Nascondi</string>
+    <string name="none">Nessuno</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Annulla</string>
+    <string name="error">Errore</string>
+    
+    <!-- Preferences -->
+    <string name="preferences">Preferenze</string>
+    <string name="preferences_ui_title">Interfaccia utente</string>
+    <string name="preference_theme_title">Tema</string>
+    <string name="preferences_themes_dialog_title">Seleziona un tema</string>
+    <string name="preference_about_title">Informazioni</string>
+    <string name="preference_credits_title">Risconoscimenti</string>
+    <string name="preference_credits_apis_title">APIs</string>
+    <string name="preference_credits_icons_title">Icone</string>
+    <string name="preference_credits_tools_title">Strumenti</string>
+    <string name="preference_changelog_title">Novità</string>
+    <string name="preference_app_language_title">Lingua dell\'applicazione</string>
+    <string name="preferences_app_language_dialog_title">Cambia la lingua dell\'applicazione in</string>
+    <string name="preference_fb_language_title">Lingua di Facebook</string>
+    <string name="preferences_fb_language_dialog_title">Cambia la lingua di Facebook in</string>
+    <string name="preference_buy_pro_version_title">Acquista la versione Pro</string>
+	<string name="credentials_translators">Traduttori</string>
+	
+	<!-- Buttons -->
+    <string name="request_error_retry">Riprova</string>
+
+    <!-- Request errors -->
+    <string name="request_error">C\'è stato un errore.</string>
+    <string name="request_connexion_error">Errore di connessione.\nControlla la tua connessione internet.</string>
+    
+    <!-- Activity title -->
+    <string name="credentials_activity_title">Riconoscimenti</string>
+    
+    <!-- Time values -->
+    <string name="seconds_ago">%d secondi fa</string>
+    <string name="one_minute_ago">Un minuto fa</string>
+    <string name="minutes_ago">%d minuti fa</string>
+    <string name="one_hour_ago">un\'ora fa</string>
+    <string name="hours_ago">%d ore fa</string>
+    <string name="one_day_ago">Un giorno fa</string>
+    <string name="days_ago">%d giorni fa</string>
+    <string name="one_month_ago">Un mese fa</string>
+    <string name="months_ago">%d mesi fa</string>
+    <string name="years_ago">%d anno/i fa</string>
+    
+    <!-- Thread -->
+    <string name="thread_one_user">%1$s</string>
+    <string name="thread_two_users">%1$s e %2$s</string>
+    <string name="thread_many_users">%1$s, %2$s e %3$d altri</string>
+
+    <!-- Credentials -->
+    <string name="credentials_apis">APIs</string>
+    <string name="credentials_icons">Icone</string>
+    <string name="credentials_translators">Traduttori</string>
+    
+    <!-- Empty lists -->
+    <string name="empty_list_no_friend">Nessun amico</string>
+    <string name="empty_list_no_message">Nessun messaggio</string>
+
+
+    <!-- About -->
+    <string name="about_version">Versione %1$s</string>
+    <string name="about_activity_title">Informazioni</string>
+    <string name="about_copyright">Copyright © 2013 Abewy</string>
+    <string name="about_all_rights_reserved">Tutti i diritti riservati</string>
+
+    <!-- Feedback -->
+    <string name="feedback_send_mail">Invia una e-mail</string>
+    <string name="feedback_support_mail_address">support.klyph@abewy.com</string>
+    <string name="feedback_found_a_bug">Vuoi darci un suggerimento?\nHai trovato un bug?\nFaccelo sapere!</string>
+    <string name="feedback_send_suggest">Invia un suggerimento</string>
+    <string name="feedback_send_bug">Segnala un bug</string>
+    <string name="feedback_g_plus_community">Communità su G+</string>
+    <string name="restart">Riavvia</string>
+    <string name="option_need_restart">È richiesto un riavvio per applicare questa opzione.</string>
+    <string name="soon">Presto &#8230;</string>
+
+    <!-- Change log -->
+    <string name="title_changelog">Note di versione</string>
+    <string name="changelog_close">Chiudi</string>
+    <string name="changelog_activity_title">Note di versione</string>
+    
+     <!-- Preferences -->
+    <string name="preferences">Preferenze</string>
+    <string name="preference_theme_title">Tema</string>
+    <string name="preferences_themes_dialog_title">Seleziona un tema</string>
+    <string name="preference_about_title">Informazioni</string>
+    <string name="preference_credits_title">Risconoscimenti</string>
+    <string name="preference_credits_apis_title">APIs</string>
+    <string name="preference_credits_icons_title">Icone</string>
+    <string name="preference_credits_tools_title">Strumenti</string>
+    <string name="preference_changelog_title">Novità</string>
+    <string name="preference_notifications_title">Notifiche</string>
+    <string name="preference_notification_title">Notifica</string>
+    <string name="preference_notification_summary">Abilita notifiche</string>
+    <string name="preference_app_language_title">Lingua dell\'applicazione</string>
+    <string name="preferences_app_language_dialog_title">Cambia la lingua dell\'applicazione in</string>
+    <string name="preference_fb_language_title">Lingua di Facebook</string>
+    <string name="preferences_fb_language_dialog_title">Cambia la lingua di Facebook in</string>
+    <string name="preference_performances_title">Prestazioni</string>
+    <string name="preference_performances_rounded_profile_picture_summary">Disabilitando l\'effetto migliorano le prestazioni</string>
+    <string name="preference_performances_rounded_profile_picture_title">Abilita le immagini del profilo arrotondate</string>
+    <string name="preference_notification_vibrate_title">Vibrazione</string>
+    <string name="preference_notification_ringtone_title">Suoneria</string>
+    <string name="preference_notifications_ringtone">Suoneria</string>
+    <string name="preference_notifications_song">Brano</string>
+    <string name="preference_notification_ringtone_chooser">Scegli una suoneria</string>
+    <string name="preference_buy_pro_version_title">Acquista la versione Pro</string>
+    
+    <!-- InApp Billing -->
+    <string name="thank_you">Thank you !</string>
+    <string name="thank_you_purchase">Thank you for upgrading to the ad free version !</string>
+	
+</resources>

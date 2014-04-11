@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="preferences_themes_entries">
+        <item>Light Blue</item>
+        <item>Dark Blue</item>
+        <item>Black Blue</item>
+        <item>Light Green</item>
+        <item>Dark Green</item>
+        <item>Black Green</item>
+    </string-array>
+    <string-array name="preferences_themes_values">
+        <item>@string/theme_light_blue</item>
+        <item>@string/theme_dark_blue</item>
+        <item>@string/theme_black_blue</item>
+        <item>@string/theme_light_green</item>
+        <item>@string/theme_dark_green</item>
+        <item>@string/theme_black_green</item>
+    </string-array>
+    
+    <string-array name="preferences_app_language_entries">
+        <item>@string/defaultString</item>
+        <item>Čeština</item>
+        <item>Dansk</item>
+        <item>Deutsch</item>
+        <item>English</item>
+        <item>Español</item>
+        <item>Français</item>
+        <item>ελληνικά</item>
+        <item>Italiano</item>
+        <item>Magyar</item>
+        <item>Nederlands</item>
+        <item>Polski</item>
+        <item>Português (Brasil)</item>
+        <item>Român</item>
+        <item>Türkçe</item>
+        <item>Tiếng Việt</item>
+        <item>русский</item>
+        <item>中文(台灣)</item>
+        <item>中文(简体)</item>
+        <item>עברית</item>
+        <item>العربية</item>
+    </string-array>
+    
+    <string-array name="preferences_app_language_values">
+        <item>default</item>
+        <item>cs</item>
+        <item>da</item>
+        <item>de</item>
+        <item>en</item>
+        <item>es</item>
+        <item>fr</item>
+        <item>el</item>
+        <item>it</item>
+        <item>hu</item>
+        <item>nl</item>
+        <item>pl</item>
+        <item>pt_BR</item>
+        <item>ro</item>
+        <item>tr</item>
+        <item>vi</item>
+        <item>ru</item>
+        <item>zh_CN</item>
+        <item>zh_TW</item>
+        <item>iw</item>
+        <item>ar_AR</item>
+    </string-array>
+    
+    <string-array name="preferences_fb_language_entries">
+        <item>@string/defaultString</item>
+        <item>Čeština</item>
+        <item>Dansk</item>
+        <item>Deutsch</item>
+        <item>English</item>
+        <item>Español</item>
+        <item>Français</item>
+        <item>ελληνικά</item>
+        <item>Italiano</item>
+        <item>Magyar</item>
+        <item>Nederlands</item>
+        <item>Polski</item>
+        <item>Português (Brasil)</item>
+        <item>Român</item>
+        <item>Türkçe</item>
+        <item>Tiếng Việt</item>
+        <item>русский</item>
+        <item>中文(台灣)</item>
+        <item>中文(简体)</item>
+        <item>עברית</item>
+        <item>العربية</item>
+    </string-array>
+    
+    <string-array name="preferences_fb_language_values">
+        <item>default</item>
+        <item>cs_CZ</item>
+        <item>da_DK</item>
+        <item>de_DE</item>
+        <item>en_US</item>
+        <item>es_ES</item>
+        <item>fr_FR</item>
+        <item>el_GR</item>
+        <item>it_IT</item>
+        <item>hu_HU</item>
+        <item>nl_NL</item>
+        <item>pl_PL</item>
+        <item>pt_BR</item>
+        <item>ro_RO</item>
+        <item>tr_TR</item>
+        <item>vi_VN</item>
+        <item>ru_RU</item>
+        <item>zh_TW</item>
+        <item>zh_CN</item>
+        <item>he_IL</item>
+        <item>ar_AR</item>
+    </string-array>
+    
+    <string-array name="preferences_notifications_ringtone_labels">
+        <item>@string/defaultString</item>
+        <item>@string/preference_notifications_ringtone</item>
+        <item>@string/preference_notifications_song</item>
+    </string-array>
+    
+    <string-array name="preferences_notifications_ringtone_values">
+        <item>default</item>
+        <item>ringtone</item>
+        <item>song</item>
+    </string-array>
+</resources>

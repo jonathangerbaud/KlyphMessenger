@@ -1,0 +1,39 @@
+<resources>
+	<dimen name="dip_1">1dip</dimen>
+    <dimen name="dip_2">2dip</dimen>
+    <dimen name="dip_4">4dip</dimen>
+    <dimen name="dip_8">8dip</dimen>
+    <dimen name="dip_12">12dip</dimen>
+    <dimen name="dip_16">16dip</dimen>
+    <dimen name="dip_32">32dip</dimen>
+    <dimen name="dip_36">36dip</dimen>
+    <dimen name="dip_40">40dip</dimen>
+    <dimen name="dip_48">48dip</dimen>
+    <dimen name="dip_56">56dip</dimen>
+    <dimen name="dip_64">64dip</dimen>
+    
+    <dimen name="left_container_width">280dp</dimen>
+    <dimen name="right_container_width">320dp</dimen>
+    
+    <dimen name="left_container_landscape_width">360dp</dimen>
+    <dimen name="right_container_landscape_width">500dp</dimen>
+    
+    <dimen name="parallax_distance">80dp</dimen>
+    
+    <dimen name="conversation_chooser_margin">8dp</dimen>
+    <dimen name="list_left_right_padding">8dp</dimen>
+    
+    <dimen name="conversation_margin">8dp</dimen>
+    <dimen name="conversation_margin_end">0dp</dimen>
+    <dimen name="conversation_avatar_size">48dp</dimen>
+    <dimen name="conversation_item_min_height">52dp</dimen>
+
+    <dimen name="klyphmessenger_list_item_primary_text">18sp</dimen>
+    <dimen name="klyphmessenger_list_item_secondary_text">12sp</dimen>
+    <dimen name="klyphmessenger_list_item_tertiary_text">10sp</dimen>
+    
+    <dimen name="online_probe_size">8dp</dimen>
+    
+    <dimen name="profile_image_border_size">2dp</dimen>
+    
+</resources>

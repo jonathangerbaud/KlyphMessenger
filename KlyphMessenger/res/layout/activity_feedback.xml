@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:isScrollContainer="true" >
+
+    <RelativeLayout
+        android:id="@+id/app_layout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical" 
+        android:layout_weight="0.5">
+
+        <ImageView
+            android:id="@+id/app_logo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:src="@drawable/ic_launcher_large" />
+
+        <TextView
+            android:id="@+id/app_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/app_logo"
+            android:layout_gravity="center_horizontal"
+            android:gravity="center"
+            android:text="@string/app_large_name"
+            android:textSize="24sp"
+            android:textStyle="bold" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/button_layout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:gravity="center_vertical" >
+
+        <TextView
+            android:id="@+id/text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="@string/feedback_found_a_bug"
+            android:textSize="14sp" />
+
+        <Button
+            android:id="@+id/suggest_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/text"
+            android:layout_marginTop="5dip"
+            android:layout_centerHorizontal="true"
+            android:text="@string/feedback_send_suggest" />
+
+        <Button
+            android:id="@+id/bug_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/suggest_button"
+            android:layout_centerHorizontal="true"
+            android:layout_alignLeft="@id/suggest_button"
+            android:layout_alignRight="@id/suggest_button"
+            android:text="@string/feedback_send_bug" />
+        <Button
+            android:id="@+id/bug_g_plus"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/bug_button"
+            android:layout_centerHorizontal="true"
+            android:layout_alignLeft="@id/suggest_button"
+            android:layout_alignRight="@id/suggest_button"
+            android:text="@string/feedback_g_plus_community" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/company_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:layout_weight="0.5">
+
+        <ImageView
+            android:id="@+id/company_logo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:src="@drawable/logo_abewy" />
+    </RelativeLayout>
+
+</LinearLayout>

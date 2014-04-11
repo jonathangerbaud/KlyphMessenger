@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	
+	<!-- Notifications -->
+	<string name="new_messages">%1$d new messages</string>
+	<string name="new_message_from"><b>%1$s</b> : %2$s</string>
+	
+	<!-- Chat -->
+    <string name="online">В сети</string>
+    <string name="offline">Не в сети</string>
+    
+    <!-- Conversation -->
+    <string name="send_message">Send a message</string>
+    <string name="my_last_message">Me : %1$s</string>
+	<string name="friend_last_message">%1$s : %2$s</string>
+    
+    <!-- Menu -->
+    <string name="menu_new_conversation">New conversation</string>
+    <string name="menu_logout">Выход</string>
+    <string name="menu_preferences">Настройки</string>
+    <string name="menu_feedback">Отзыв</string>
+    <string name="menu_faq">FAQ</string>
+    <string name="menu_buy_pro">No more ads !</string>
+    
+    <!-- General -->
+    <string name="defaultString">По умолчанию</string>
+    <string name="search">Поиск</string>
+    <string name="close">Закрыть</string>
+    <string name="open">Открыть</string>
+    <string name="refresh">Обновить</string>
+    <string name="copy_text">Копировать текст</string>
+    <string name="download_image">Загрузить изображение</string>
+    <string name="view_profile">Просмотреть профиль</string>
+    <string name="more">Ещё</string>
+    <string name="reply">Ответить</string>
+    <string name="hide">Скрыть</string>
+    <string name="none">Нет</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="error">Error</string>
+    
+    <!-- Preferences -->
+    <string name="preferences">Предпочтения</string>
+    <string name="preferences_ui_title">Интерфейс</string>
+    <string name="preference_theme_title">Тема</string>
+    <string name="preferences_themes_dialog_title">Выберите тему</string>
+    <string name="preference_about_title">About</string>
+    <string name="preference_credits_title">Credits</string>
+    <string name="preference_credits_apis_title">API</string>
+    <string name="preference_credits_icons_title">Иконки</string>
+    <string name="preference_credits_tools_title">Инструменты</string>
+    <string name="preference_changelog_title">Список изменений</string>
+    <string name="preference_app_language_title">Язык приложения</string>
+    <string name="preferences_app_language_dialog_title">Изменить язык приложения на</string>
+    <string name="preference_fb_language_title">Язык Facebook</string>
+    <string name="preferences_fb_language_dialog_title">Изменить язык Facebook на</string>
+    <string name="preference_buy_pro_version_title">Купить Pro</string>
+	<string name="credentials_translators">Переводчики</string>
+	
+	<!-- Buttons -->
+    <string name="request_error_retry">Попробовать снова</string>
+
+    <!-- Request errors -->
+    <string name="request_error">Произошла ошибка.</string>
+    <string name="request_connexion_error">"Ошибка соединения.
+Проверьте ваше подключение."</string>
+    
+    <!-- Activity title -->
+    <string name="credentials_activity_title">Credits</string>
+    
+    <!-- Time values -->
+    <string name="seconds_ago">%d секунд назад</string>
+    <string name="one_minute_ago">Минуту назад</string>
+    <string name="minutes_ago">%d минут назад</string>
+    <string name="one_hour_ago">Час назад</string>
+    <string name="hours_ago">%d часа назад</string>
+    <string name="one_day_ago">Вчера</string>
+    <string name="days_ago">%d дней назад</string>
+    <string name="one_month_ago">Месяц назад</string>
+    <string name="months_ago">%d месяцев назад</string>
+    <string name="years_ago">%d лет назад</string>
+    
+    <!-- Thread -->
+    <string name="thread_one_user">%1$s</string>
+    <string name="thread_two_users">%1$s et %2$s</string>
+    <string name="thread_many_users">%1$s, %2$s и ещё %3$d</string>
+
+    <!-- Credentials -->
+    <string name="credentials_apis">API</string>
+    <string name="credentials_icons">Иконки</string>
+    <string name="credentials_translators">Переводчики</string>
+    
+    <!-- Empty lists -->
+    <string name="empty_list_no_friend">Нет друзей</string>
+    <string name="empty_list_no_message">Нет сообщений</string>
+
+
+    <!-- About -->
+    <string name="about_version">Версия %1$s</string>
+    <string name="about_activity_title">О приложении</string>
+    <string name="about_copyright">Copyright © 2013 Abewy</string>
+    <string name="about_all_rights_reserved">Все права защищены</string>
+
+    <!-- Feedback -->
+    <string name="feedback_send_mail">Отправить e-mail</string>
+    <string name="feedback_support_mail_address">support.klyph.messenger@abewy.com</string>
+    <string name="feedback_found_a_bug">"Предложение ?
+Нашли ошибку ?
+Дайте нам знать !"</string>
+    <string name="feedback_send_suggest">Отправить предложение</string>
+    <string name="feedback_send_bug">Сообщить об ошибке</string>
+    <string name="feedback_g_plus_community">Сообщество G+</string>
+    <string name="restart">Перезапустить</string>
+    <string name="option_need_restart">Перезапуск нужен чтобы применить это изменение.</string>
+    <string name="soon">Скоро …</string>
+
+    <!-- Change log -->
+    <string name="title_changelog">Список изменений</string>
+    <string name="changelog_close">Закрыть</string>
+    <string name="changelog_activity_title">Список изменений</string>
+    
+     <!-- Preferences -->
+    <string name="preferences">Предпочтения</string>
+    <string name="preference_theme_title">Тема</string>
+    <string name="preferences_themes_dialog_title">Выберите тему</string>
+    <string name="preference_about_title">About</string>
+    <string name="preference_credits_title">Credits</string>
+    <string name="preference_credits_apis_title">API</string>
+    <string name="preference_credits_icons_title">Иконки</string>
+    <string name="preference_credits_tools_title">Инструменты</string>
+    <string name="preference_changelog_title">Список изменений</string>
+    <string name="preference_notifications_title">Уведомления</string>
+    <string name="preference_notification_title">Уведомление</string>
+    <string name="preference_notification_summary">Включить уведомления</string>
+    <string name="preference_app_language_title">Язык приложения</string>
+    <string name="preferences_app_language_dialog_title">Изменить язык приложения на</string>
+    <string name="preference_fb_language_title">Язык Facebook</string>
+    <string name="preferences_fb_language_dialog_title">Изменить язык Facebook на</string>
+    <string name="preference_performances_title">Производительность</string>
+    <string name="preference_performances_rounded_profile_picture_summary">Отключение эффекта увеличит производительность</string>
+    <string name="preference_performances_rounded_profile_picture_title">Круглое изображение профиля</string>
+    <string name="preference_notification_vibrate_title">Вибрация</string>
+    <string name="preference_notification_ringtone_title">Рингтон</string>
+    <string name="preference_notifications_ringtone">Рингтон</string>
+    <string name="preference_notifications_song">Песня</string>
+    <string name="preference_notification_ringtone_chooser">Выберите рингтон</string>
+    <string name="preference_buy_pro_version_title">Купить Pro</string>
+    
+    <!-- InApp Billing -->
+    <string name="thank_you">Thank you !</string>
+    <string name="thank_you_purchase">Thank you for upgrading to the ad free version !</string>
+	
+</resources>

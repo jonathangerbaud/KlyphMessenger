@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	
+	<!-- Notifications -->
+	<string name="new_messages">%1$d yeni mesaj</string>
+	<string name="new_message_from"><b>%1$s</b> : %2$s</string>
+	
+	<!-- Chat -->
+    <string name="online">Çevirimiçi</string>
+    <string name="offline">Çevrimdışı</string>
+    
+    <!-- Conversation -->
+    <string name="send_message">Mesaj gönder</string>
+    <string name="my_last_message">Ben: %1$s</string>
+	<string name="friend_last_message">%1$s : %2$s</string>
+    
+    <!-- Menu -->
+    <string name="menu_new_conversation">Yeni sohbet</string>
+    <string name="menu_logout">Çıkış Yap </string>
+    <string name="menu_preferences">Ayarlar</string>
+    <string name="menu_feedback">Geri Bildirim</string>
+    <string name="menu_faq">FAQ</string>
+    <string name="menu_buy_pro">No more ads !</string>
+    
+    <!-- General -->
+    <string name="defaultString">Varsayılan</string>
+    <string name="search">Ara</string>
+    <string name="close">Kapat</string>
+    <string name="open">Aç</string>
+    <string name="refresh">Yenile</string>
+    <string name="copy_text">Metni kopyala</string>
+    <string name="download_image">Resmi indir</string>
+    <string name="view_profile">Profili Görüntüle</string>
+    <string name="more">Daha fazla</string>
+    <string name="reply">Yanıtla</string>
+    <string name="hide">Gizle</string>
+    <string name="none">Hiçbiri</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="error">Error</string>
+    
+    <!-- Preferences -->
+    <string name="preferences">Tercihler</string>
+    <string name="preferences_ui_title">Kullanıcı arayüzü</string>
+    <string name="preference_theme_title">Tema</string>
+    <string name="preferences_themes_dialog_title">Bir tema seçiniz</string>
+    <string name="preference_about_title">Hakkında</string>
+    <string name="preference_credits_title">Emeği Geçenler</string>
+    <string name="preference_credits_apis_title">API\'ler</string>
+    <string name="preference_credits_icons_title">Simgeler</string>
+    <string name="preference_credits_tools_title">Araçlar</string>
+    <string name="preference_changelog_title">Yenilikler</string>
+    <string name="preference_app_language_title">Uygulama dilini seçiniz</string>
+    <string name="preferences_app_language_dialog_title">Uygulama dilini değiştir</string>
+    <string name="preference_fb_language_title">Facebook dilini seçiniz</string>
+    <string name="preferences_fb_language_dialog_title">Facebook dilini değiştir</string>
+    <string name="preference_buy_pro_version_title">Pro sürümü satın</string>
+	<string name="credentials_translators">Tercüme Edenler</string>
+	
+	<!-- Buttons -->
+    <string name="request_error_retry">Yeniden Dene</string>
+
+    <!-- Request errors -->
+    <string name="request_error">Bir hata oluştu.</string>
+    <string name="request_connexion_error">Bağlantı hatası.\nİnternet bağlantınızı kontrol ediniz.</string>
+    
+    <!-- Activity title -->
+    <string name="credentials_activity_title">Emeği geçenler</string>
+    
+    <!-- Time values -->
+    <string name="seconds_ago">%d saniye önce</string>
+    <string name="one_minute_ago">Bir dakika önce</string>
+    <string name="minutes_ago">%d dakika önce</string>
+    <string name="one_hour_ago">Bir saat önce</string>
+    <string name="hours_ago">%d saat önce</string>
+    <string name="one_day_ago">Bir gün önce</string>
+    <string name="days_ago">%d gün önce</string>
+    <string name="one_month_ago">Bir ay önce</string>
+    <string name="months_ago">%d ay önce</string>
+    <string name="years_ago">%d yıl önce</string>
+    
+    <!-- Thread -->
+    <string name="thread_one_user">%1$s</string>
+    <string name="thread_two_users">%1$s  %2$s</string>
+    <string name="thread_many_users">%1$s, %2$s ve %3$d diğer</string>
+
+    <!-- Credentials -->
+    <string name="credentials_apis">API\'ler</string>
+    <string name="credentials_icons">Simgeler</string>
+    <string name="credentials_translators">Tercüme Edenler</string>
+    
+    <!-- Empty lists -->
+    <string name="empty_list_no_friend">Arkadaş yok</string>
+    <string name="empty_list_no_message">İleti yok</string>
+
+
+    <!-- About -->
+    <string name="about_version">Sürüm%1$s</string>
+    <string name="about_activity_title">Hakkında</string>
+    <string name="about_copyright">Copyright © 2013 Abewy</string>
+    <string name="about_all_rights_reserved">Tüm hakları saklıdır</string>
+
+    <!-- Feedback -->
+    <string name="feedback_send_mail">Mail gönder</string>
+    <string name="feedback_support_mail_address">support.klyph@abewy.com</string>
+    <string name="feedback_found_a_bug">Hata bulursan bize bildir!</string>
+    <string name="feedback_send_suggest">Öneride bulun</string>
+    <string name="feedback_send_bug">Hata rapor et</string>
+    <string name="feedback_g_plus_community">G+ topluluğu</string>
+    <string name="restart">Yeniden başlat</string>
+    <string name="option_need_restart">Tercihi uygulamak için yeniden başlatma gereklidir.</string>
+    <string name="soon">Yakında &#8230;</string>
+
+    <!-- Change log -->
+    <string name="title_changelog">Yenilikler</string>
+    <string name="changelog_close">Kapat</string>
+    <string name="changelog_activity_title">Yenilikler</string>
+    
+     <!-- Preferences -->
+    <string name="preferences">Tercihler</string>
+    <string name="preference_theme_title">Tema</string>
+    <string name="preferences_themes_dialog_title">Bir tema seçiniz</string>
+    <string name="preference_about_title">Hakkında</string>
+    <string name="preference_credits_title">Emeği Geçenler</string>
+    <string name="preference_credits_apis_title">API\'ler</string>
+    <string name="preference_credits_icons_title">Simgeler</string>
+    <string name="preference_credits_tools_title">Araçlar</string>
+    <string name="preference_changelog_title">Yenilikler</string>
+    <string name="preference_notifications_title">Bildirimler</string>
+    <string name="preference_notification_title">Bildirim</string>
+    <string name="preference_notification_summary">Bildirimleri etkinleştir</string>
+    <string name="preference_app_language_title">Uygulama dilini seçiniz</string>
+    <string name="preferences_app_language_dialog_title">Uygulama dilini değiştir</string>
+    <string name="preference_fb_language_title">Facebook dilini seçiniz</string>
+    <string name="preferences_fb_language_dialog_title">Facebook dilini değiştir</string>
+    <string name="preference_performances_title">Performans</string>
+    <string name="preference_performances_rounded_profile_picture_summary">Efekti devre dışı bırakmak performansı arttırır</string>
+    <string name="preference_performances_rounded_profile_picture_title">Yuvarlak profil fotoğraflarını etkinleştir</string>
+    <string name="preference_notification_vibrate_title">Titreşim</string>
+    <string name="preference_notification_ringtone_title">Zil sesi</string>
+    <string name="preference_notifications_ringtone">Zil sesi</string>
+    <string name="preference_notifications_song">Şarkı</string>
+    <string name="preference_notification_ringtone_chooser">Zil sesini seçiniz</string>
+    <string name="preference_buy_pro_version_title">Pro sürümü satın</string>
+    
+    <!-- InApp Billing -->
+    <string name="thank_you">Thank you !</string>
+    <string name="thank_you_purchase">Thank you for upgrading to the ad free version !</string>
+	
+</resources>

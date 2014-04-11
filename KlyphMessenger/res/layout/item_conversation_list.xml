@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.abewy.android.apps.klyph.messenger.widget.SimpleCheckableLinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:descendantFocusability="blocksDescendants"
+    android:orientation="horizontal"
+    android:padding="@dimen/conversation_chooser_margin" >
+
+    <FrameLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" >
+
+        <com.abewy.android.apps.klyph.messenger.widget.ProfileImageView
+            android:id="@+id/avatar"
+            android:layout_width="@dimen/dip_56"
+            android:layout_height="@dimen/dip_56" />
+
+        <ImageView
+            android:id="@+id/online_probe"
+            android:layout_width="@dimen/online_probe_size"
+            android:layout_height="@dimen/online_probe_size"
+            android:layout_gravity="bottom|right"
+            android:src="@drawable/online_probe"
+            android:layout_marginRight="@dimen/dip_1"
+            android:layout_marginBottom="@dimen/dip_1" />
+    </FrameLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:paddingLeft="@dimen/conversation_chooser_margin" >
+
+        <TextView
+            android:id="@+id/conversation_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_toLeftOf="@+id/conversation_date"
+            android:ellipsize="end"
+            android:singleLine="true"
+            android:textColor="?android:attr/textColorSecondary"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@id/conversation_date"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBaseline="@id/conversation_name"
+            android:layout_alignParentRight="true"
+            android:textColor="?android:attr/textColorTertiary"
+            android:paddingLeft="@dimen/dip_4"
+            android:textSize="12sp" />
+
+        <TextView
+            android:id="@+id/message_snippet"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/conversation_name"
+            android:layout_marginTop="4dp"
+            android:layout_toLeftOf="@+id/unread_count"
+            android:ellipsize="end"
+            android:maxLines="3"
+            android:textColor="?android:attr/textColorSecondary" />
+
+        <TextView
+            android:id="@id/unread_count"
+            android:layout_width="24dp"
+            android:layout_height="24dp"
+            android:layout_alignBaseline="@id/message_snippet"
+            android:layout_alignParentRight="true"
+            android:layout_below="@id/conversation_date"
+            android:layout_marginTop="8dp"
+            android:gravity="right"
+            android:text="3"
+            android:textColor="?attr/themeColor"
+            android:textSize="12sp"
+            android:textStyle="bold" />
+    </RelativeLayout>
+
+</com.abewy.android.apps.klyph.messenger.widget.SimpleCheckableLinearLayout>

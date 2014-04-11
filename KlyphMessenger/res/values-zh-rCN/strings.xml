@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	
+	<!-- Notifications -->
+	<string name="new_messages">%1$d new messages</string>
+	<string name="new_message_from"><b>%1$s</b> : %2$s</string>
+	
+	<!-- Chat -->
+    <string name="online">在線</string>
+    <string name="offline">離線</string>
+    
+    <!-- Conversation -->
+    <string name="send_message">Send a message</string>
+    <string name="my_last_message">Me : %1$s</string>
+	<string name="friend_last_message">%1$s : %2$s</string>
+    
+    <!-- Menu -->
+    <string name="menu_new_conversation">New conversation</string>
+    <string name="menu_logout">登出</string>
+    <string name="menu_preferences">設定</string>
+    <string name="menu_feedback">意見回饋</string>
+    <string name="menu_faq">FAQ</string>
+    <string name="menu_buy_pro">No more ads !</string>
+    
+    <!-- General -->
+    <string name="defaultString">預設</string>
+    <string name="search">搜尋</string>
+    <string name="close">關閉</string>
+    <string name="open">開啟</string>
+    <string name="refresh">立即更新</string>
+    <string name="copy_text">複製文字</string>
+    <string name="download_image">下載相片</string>
+    <string name="view_profile">個人主頁</string>
+    <string name="more">其他</string>
+    <string name="reply">回覆</string>
+    <string name="hide">隱藏</string>
+    <string name="none">空白</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="error">Error</string>
+    
+    <!-- Preferences -->
+    <string name="preferences">效能</string>
+    <string name="preferences_ui_title">使用者介面</string>
+    <string name="preference_theme_title">布景主題</string>
+    <string name="preferences_themes_dialog_title">選擇紀錄</string>
+    <string name="preference_about_title">關於</string>
+    <string name="preference_credits_title">研發團隊</string>
+    <string name="preference_credits_apis_title">API</string>
+    <string name="preference_credits_icons_title">圖示</string>
+    <string name="preference_credits_tools_title">工具</string>
+    <string name="preference_changelog_title">更新紀錄</string>
+    <string name="preference_app_language_title">APP 語言</string>
+    <string name="preferences_app_language_dialog_title">變更 APP 語言</string>
+    <string name="preference_fb_language_title">臉書語言</string>
+    <string name="preferences_fb_language_dialog_title">變更臉書語言</string>
+    <string name="preference_buy_pro_version_title">購買專業版</string>
+	<string name="credentials_translators">文字譯者</string>
+	
+	<!-- Buttons -->
+    <string name="request_error_retry">重試</string>
+
+    <!-- Request errors -->
+    <string name="request_error">發生一個錯誤。</string>
+    <string name="request_connexion_error">連線錯誤。\n請檢查你的網路連線。</string>
+    
+    <!-- Activity title -->
+    <string name="credentials_activity_title">勞苦功高的弟兄</string>
+    
+    <!-- Time values -->
+    <string name="seconds_ago">%d 秒以前</string>
+    <string name="one_minute_ago">1 分鐘前</string>
+    <string name="minutes_ago">%d 分鐘前</string>
+    <string name="one_hour_ago">1 小時前</string>
+    <string name="hours_ago">%d 小時前</string>
+    <string name="one_day_ago">昨天</string>
+    <string name="days_ago">%d 天前</string>
+    <string name="one_month_ago">1 個月前</string>
+    <string name="months_ago">%d 個月前</string>
+    <string name="years_ago">%d 年前</string>
+    
+    <!-- Thread -->
+    <string name="thread_one_user">%1$s</string>
+    <string name="thread_two_users">%1$s 和 %2$s</string>
+    <string name="thread_many_users">%1$s 、 %2$s 和 %3$d 等</string>
+
+    <!-- Credentials -->
+    <string name="credentials_apis">API 研發</string>
+    <string name="credentials_icons">圖示設計</string>
+    <string name="credentials_translators">文字譯者</string>
+    
+    <!-- Empty lists -->
+    <string name="empty_list_no_friend">沒有朋友</string>
+    <string name="empty_list_no_message">無人留言</string>
+
+
+    <!-- About -->
+    <string name="about_version">%1$s 版</string>
+    <string name="about_activity_title">關於</string>
+    <string name="about_copyright">Copyright © 2013 Abewy</string>
+    <string name="about_all_rights_reserved">版權所有</string>
+
+    <!-- Feedback -->
+    <string name="feedback_send_mail">寫信</string>
+    <string name="feedback_support_mail_address">support.klyph@abewy.com</string>
+    <string name="feedback_found_a_bug">有何建議？\n或者發現蟲蟲？\n請讓我們知道！</string>
+    <string name="feedback_send_suggest">書寫意見</string>
+    <string name="feedback_send_bug">蟲蟲報告</string>
+    <string name="feedback_g_plus_community">G+ 社團</string>
+    <string name="restart">重新啟動</string>
+    <string name="option_need_restart">變更後必須重新啟動才能生效。</string>
+    <string name="soon">我們將盡快回覆&#8230;</string>
+
+    <!-- Change log -->
+    <string name="title_changelog">更新紀錄</string>
+    <string name="changelog_close">關閉</string>
+    <string name="changelog_activity_title">更新紀錄</string>
+    
+     <!-- Preferences -->
+    <string name="preferences">效能</string>
+    <string name="preference_theme_title">布景主題</string>
+    <string name="preferences_themes_dialog_title">選擇紀錄</string>
+    <string name="preference_about_title">關於</string>
+    <string name="preference_credits_title">研發團隊</string>
+    <string name="preference_credits_apis_title">API</string>
+    <string name="preference_credits_icons_title">圖示</string>
+    <string name="preference_credits_tools_title">工具</string>
+    <string name="preference_changelog_title">更新紀錄</string>
+    <string name="preference_notifications_title">通知</string>
+    <string name="preference_notification_title">通知</string>
+    <string name="preference_notification_summary">啟用通知</string>
+    <string name="preference_app_language_title">APP 語言</string>
+    <string name="preferences_app_language_dialog_title">變更 APP 語言</string>
+    <string name="preference_fb_language_title">臉書語言</string>
+    <string name="preferences_fb_language_dialog_title">變更臉書語言</string>
+    <string name="preference_performances_title">效能</string>
+    <string name="preference_performances_rounded_profile_picture_summary">關閉圓形頭相可以改進效能</string>
+    <string name="preference_performances_rounded_profile_picture_title">啟用圓形頭相</string>
+    <string name="preference_notification_vibrate_title">震動</string>
+    <string name="preference_notification_ringtone_title">通知音效</string>
+    <string name="preference_notifications_ringtone">通知音效</string>
+    <string name="preference_notifications_song">歌曲</string>
+    <string name="preference_notification_ringtone_chooser">選擇通知音</string>
+    <string name="preference_buy_pro_version_title">購買專業版</string>
+    
+    <!-- InApp Billing -->
+    <string name="thank_you">Thank you !</string>
+    <string name="thank_you_purchase">Thank you for upgrading to the ad free version !</string>
+	
+</resources>

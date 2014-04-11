@@ -1,0 +1,130 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!--
+        Base application theme, dependent on API level. This theme is replaced
+        by AppBaseTheme from res/values-vXX/styles.xml on newer devices.
+    -->
+    <style name="KlyphMessengerBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+
+    <!-- Application theme. -->
+
+    <style name="KlyphMessenger.Light" parent="@android:style/Theme.Holo.Light">
+        <item name="android:windowBackground">@drawable/screen_background_light</item>
+        
+        <item name="android:listDivider">@drawable/divider_vertical_bright</item>
+        
+        <item name="android:textColorPrimary">@color/light_theme_primary</item>
+        <item name="android:textColorSecondary">@color/light_theme_secondary</item>
+        <item name="android:textColorTertiary">@color/light_theme_tertiary</item>
+        <item name="android:textColorPrimaryInverse">@color/dark_theme_primary</item>
+        <item name="android:textColorSecondaryInverse">@color/dark_theme_secondary</item>
+        <item name="android:textColorTertiaryInverse">@color/dark_theme_tertiary</item>
+        
+        <item name="picturePlaceHolder">@drawable/ic_picture_placeholder_dark</item>
+        <item name="leftPaneBackground">@color/light_theme_left_pane_background</item>
+        <item name="rightPaneBackground">@drawable/right_pane_background_light</item>
+        <item name="slidingPaneFadeColor">@color/light_theme_sliding_pane_fade_color</item>
+        <item name="headerTextColor">@color/light_theme_header_color</item>
+        <item name="headerTextBorderColor">@color/light_theme_header_bottom_color</item>
+        <item name="dividerColor">@color/light_theme_divider_color</item>
+        <item name="dividerDrawable">@drawable/divider_light</item>
+        <item name="leftConversationBubbleBackground">@drawable/msg_bubble_selector_left_light</item>
+        <item name="rightConversationBubbleBackground">@drawable/msg_bubble_selector_right_light</item>
+        <item name="sendMessageTextBackground">#FFFFFF</item>
+        <item name="searchBarBackground">@drawable/search_bar_background_light</item>
+        <item name="emojiBarBackground">@drawable/emoji_bar_background_light</item>
+                
+        <item name="buttonBarButtonStyle">@style/KlyphMessenger.Light.Button.Borderless</item>
+        
+
+        <!-- Icons -->
+        <item name="backToTopIcon">@drawable/ic_back_to_top_light</item>
+        <item name="sendIcon">@drawable/ic_ab_send_light</item>
+        <item name="sendIconSelector">@drawable/ic_ab_send_selector_light</item>
+        <item name="refreshIcon">@drawable/ic_ab_refresh_light</item>
+        <item name="addIcon">@drawable/ic_ab_new_light</item>
+        <item name="emojiIcon">@drawable/ic_emoji_light</item>
+    </style>
+
+    <style name="KlyphMessenger.Dark" parent="@android:style/Theme.Holo">
+        <item name="android:windowBackground">@drawable/screen_background_dark</item>
+        
+        <item name="android:listDivider">@drawable/divider_vertical_dark</item>
+        
+        <item name="android:actionBarStyle">@android:style/Widget.Holo.ActionBar.Solid</item>
+        <item name="android:textColorPrimary">@color/dark_theme_primary</item>
+        <item name="android:textColorPrimaryInverse">@color/light_theme_primary</item>
+        <item name="android:textColorSecondary">@color/dark_theme_secondary</item>
+        <item name="android:textColorSecondaryInverse">@color/light_theme_secondary</item>
+        <item name="android:textColorTertiary">@color/dark_theme_tertiary</item>
+        <item name="android:textColorTertiaryInverse">@color/light_theme_tertiary</item>
+        
+        <item name="picturePlaceHolder">@drawable/ic_picture_placeholder_light</item>
+        <item name="leftPaneBackground">@color/dark_theme_left_pane_background</item>
+        <item name="rightPaneBackground">@drawable/right_pane_background_dark</item>
+        <item name="slidingPaneFadeColor">@color/dark_theme_sliding_pane_fade_color</item>
+        <item name="headerTextColor">@color/dark_theme_header_color</item>
+        <item name="headerTextBorderColor">@color/dark_theme_header_bottom_color</item>
+        <item name="dividerColor">@color/dark_theme_divider_color</item>
+        <item name="dividerDrawable">@drawable/divider_dark</item>
+        <item name="leftConversationBubbleBackground">@drawable/msg_bubble_selector_left_dark</item>
+        <item name="rightConversationBubbleBackground">@drawable/msg_bubble_selector_right_dark</item>
+        <item name="sendMessageTextBackground">#000000</item>
+        <item name="searchBarBackground">@drawable/search_bar_background_dark</item>
+        <item name="emojiBarBackground">@drawable/emoji_bar_background_dark</item>   
+             
+        <item name="buttonBarButtonStyle">@style/KlyphMessenger.Dark.Button.Borderless</item>
+        
+
+        <!-- Icons -->
+        <item name="backToTopIcon">@drawable/ic_back_to_top_dark</item>
+        <item name="sendIcon">@drawable/ic_ab_send_dark</item>
+        <item name="sendIconSelector">@drawable/ic_ab_send_selector_dark</item>
+        <item name="refreshIcon">@drawable/ic_ab_refresh_dark</item>
+        <item name="addIcon">@drawable/ic_ab_new_dark</item>
+        <item name="emojiIcon">@drawable/ic_emoji_dark</item>
+    </style>
+
+    <style name="KlyphMessenger.Light.Blue" parent="KlyphMessenger.Light">
+        <item name="themeColor">@color/blue_theme_primary</item>
+        <item name="ab_split_background">@drawable/ab_split_background_blue</item>
+        <item name="android:listViewStyle">@style/KlyphMessenger.Light.Blue.ListView</item>
+        <item name="conversationListSelectedBackground">@color/blue_theme_primary</item>
+    </style>
+
+    <style name="KlyphMessenger.Dark.Blue" parent="KlyphMessenger.Dark">
+        <item name="themeColor">@color/blue_theme_primary</item>
+        <item name="ab_split_background">@drawable/ab_split_background_blue</item>
+        <item name="android:listViewStyle">@style/KlyphMessenger.Dark.Blue.ListView</item>
+        <item name="conversationListSelectedBackground">@color/blue_theme_primary</item>
+    </style>
+    
+    <style name="KlyphMessenger.Black.Blue" parent="KlyphMessenger.Dark.Blue">
+       <item name="android:windowBackground">@android:color/black</item>
+    </style>
+    
+    <style name="KlyphMessenger.Light.Green" parent="KlyphMessenger.Light">
+        <item name="themeColor">@color/green_theme_primary</item>
+        <item name="ab_split_background">@drawable/ab_split_background_green</item>
+        <item name="android:listViewStyle">@style/KlyphMessenger.Light.Green.ListView</item>
+        <item name="conversationListSelectedBackground">@color/green_theme_primary</item>
+    </style>
+
+    <style name="KlyphMessenger.Dark.Green" parent="KlyphMessenger.Dark">
+        <item name="themeColor">@color/green_theme_primary</item>
+        <item name="ab_split_background">@drawable/ab_split_background_green</item>
+        <item name="android:listViewStyle">@style/KlyphMessenger.Dark.Green.ListView</item>
+        <item name="conversationListSelectedBackground">@color/green_theme_primary</item>
+    </style>
+    
+    <style name="KlyphMessenger.Black.Green" parent="KlyphMessenger.Dark.Green">
+        <item name="android:windowBackground">@android:color/black</item>
+    </style>
+
+</resources>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:paddingTop="8dp"
+    android:paddingBottom="8dp" >
+
+    <com.abewy.android.apps.klyph.messenger.widget.ProfileImageView
+        android:id="@+id/picture"
+        android:layout_width="@dimen/dip_48"
+        android:layout_height="@dimen/dip_48"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:scaleType="centerCrop" />
+
+    <TextView
+        android:id="@+id/primary_text"
+        style="@style/KlyphMessenger.ListItem.PrimaryText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_toRightOf="@id/picture"
+        android:layout_toLeftOf="@+id/probe"
+        android:background="@android:color/transparent"
+        android:ellipsize="end"
+        android:lines="1"
+        android:paddingLeft="8dp"
+        android:paddingRight="8dp" />
+
+</RelativeLayout>

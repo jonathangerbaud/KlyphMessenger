@@ -1,0 +1,64 @@
+<resources>
+
+    <style name="KlyphMessenger" />
+
+    <style name="KlyphMessenger.Widget" />
+
+    <style name="KlyphMessenger.ListEmptyText" parent="KlyphMessenger.Widget">
+        <item name="android:textColor">#BFBFBF</item>
+    </style>
+
+    <style name="KlyphMessenger.ListItem" parent="KlyphMessenger.Widget">
+        <item name="android:textColor">@android:attr/textColorSecondary</item>
+        <item name="android:background">#FFFFFF</item>
+    </style>
+
+    <style name="KlyphMessenger.ListItem.ErrorItem" parent="KlyphMessenger.ListItem">
+        <item name="android:background">#FF4343</item>
+    </style>
+
+    <style name="KlyphMessenger.ListItem.PrimaryText">
+        <item name="android:textAppearance">@android:style/TextAppearance.Medium</item>
+        <item name="android:textColor">?android:attr/textColorSecondary</item>
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:textSize">@dimen/klyphmessenger_list_item_primary_text</item>
+    </style>
+
+    <style name="KlyphMessenger.SplitActionBar">
+        <item name="android:background">?attr/ab_split_background</item>
+    </style>
+
+    <style name="KlyphMessenger.Button">
+        <item name="android:textAppearance">?android:attr/textAppearanceMediumInverse</item>
+        <item name="android:textColor">?android:attr/textColorSecondary</item>
+        <item name="android:minHeight">48dip</item>
+        <item name="android:minWidth">48dip</item>
+    </style>
+    
+    <style name="KlyphMessenger.Dark" />
+    
+    <style name="KlyphMessenger.Dark.Blue" />
+    <style name="KlyphMessenger.Dark.Green" />
+    
+    <style name="KlyphMessenger.Light" />
+    
+    <style name="KlyphMessenger.Light.Blue" />
+    <style name="KlyphMessenger.Light.Green" />
+    
+    <style name="KlyphMessenger.Light.Blue.ListView" parent="android:Widget.ListView.White">
+        <item name="android:listSelector">@drawable/list_selector_holo_light_blue</item>
+    </style>
+
+    <style name="KlyphMessenger.Light.Green.ListView" parent="android:Widget.ListView.White">
+        <item name="android:listSelector">@drawable/list_selector_holo_light_green</item>
+    </style>
+    
+    <style name="KlyphMessenger.Dark.Blue.ListView" parent="android:Widget.ListView">
+        <item name="android:listSelector">@drawable/list_selector_holo_dark_blue</item>
+    </style>
+
+    <style name="KlyphMessenger.Dark.Green.ListView" parent="android:Widget.ListView">
+        <item name="android:listSelector">@drawable/list_selector_holo_dark_green</item>
+    </style>
+
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="KlyphMessenger.Light.Button" parent="KlyphMessenger.Button">
+        <item name="android:background">@drawable/btn_default_holo_light_blue</item>
+    </style>
+    
+    <style name="KlyphMessenger.Light.Button.Borderless">
+        <item name="android:background">?android:attr/selectableItemBackground</item>
+    </style>
+
+</resources>
