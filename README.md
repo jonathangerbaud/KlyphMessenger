@@ -4,7 +4,9 @@ Klyph for Facebook
 Facebook Messenger client for Android
 
 Source code of the Android app [Klyph Messenger for Facebook](https://play.google.com/store/apps/details?id=com.abewy.android.apps.klyph.messenger) available on the Play Store
+
 Source code of the side Project Klyph for Facebook available [here](https://github.com/jonathangerbaud/Klyph)
+
 
 Structure
 =====
